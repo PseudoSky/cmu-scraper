@@ -1,0 +1,3 @@
+beautifulsoup4==4.3.2
+cmu_auth==0.1.6
+pydash==3.3.0

@@ -1,0 +1,152 @@
+ACCOMP	Accompanying
+ANTHRO	Anthropology
+ANTHIS	Anthropology and History
+ARC	Architecture
+ART	Art
+AUDENGR	Audio Engineering
+BSC	Biological Sciences
+BIOARC	Biological Sciences and Architecture
+BIOART	Biological Sciences and Art
+BIODES	Biological Sciences and Design
+BIODRA	Biological Sciences and Drama
+BIOMUS	Biological Sciences and Music
+BSCPSY	Biological Sciences and Psychology
+BSCCB	Biological Sciences/Computational Biology Track
+BSCNSC	Biological Sciences/Neuroscience Track
+BA	Business Administration
+BATECH	Business Administration (Business Technology)
+BAENT	Business Administration (Entrepreneurship)
+BAFIN	Business Administration (Finance)
+BAGENMAN	Business Administration (General Management)
+BAGMM	Business Administration (Graphic Media Management)
+BAITM	Business Administration (International Management)
+BAIMN	Business Administration (Manufacturing Management and Consulting)
+BAMARK	Business Administration (Marketing)
+CHE	Chemical Engineering
+CMY	Chemistry
+CMYARC	Chemistry and Architecture
+CMYART	Chemistry and Art
+CMYDES	Chemistry and Design
+CMYDRA	Chemistry and Drama
+CMYMUS	Chemistry and Music
+CHINES	Chinese Studies
+CIV	Civil Engineering
+CEE	Civil and Environmental Engineering
+COGSCI	Cognitive Science
+COLPIA	Collaborative Piano
+COMDES	Communication Design
+COMP	Composition
+BSCCBIO	Computational Biology
+COMPFIN	Computational Finance
+CS	Computer Science
+CSARC	Computer Science and Architecture
+CSDES	Computer Science and Design
+CSDRA	Computer Science and Drama
+COND	Conducting
+CW	Creative Writing
+DECSCI	Decision Science
+DES	Design
+ECO	Economics
+ECOMTH	Economics and Mathematical Sciences
+ECOSTA	Economics and Statistics
+ECE	Electrical and Computer Engineering
+EPP	Engineering and Public Policy
+ENG	English
+ENTECH	Entertainment Technology
+ENVENG	Environmental Engineering
+ETHICS	Ethics
+EHPP	Ethics, History, and Public Policy
+FRENCH	French
+FRANCO	French and Francophone Studies
+GAMEDESG	Game Design
+GERMAN	German Studies
+GS	Global Studies
+GSM	Global Systems Management
+HSSARC	H&SS and Architecture
+HSSART	H&SS and Art
+HSSDES	H&SS and Design
+HSSDRA	H&SS and Drama
+HSSMUS	H&SS and Music
+HIS	History
+HISPOL	History and Policy
+HCI	Human-Computer Interaction
+INDDES	Industrial Design
+IN	Information Networking
+INFOSYS	Information Systems
+ISSTA	Information Systems (Statistics Track)
+ISDES	Information Systems and Design
+INTDES	Interaction Design
+INTDES	Interaction Design (Student Defined Major)
+INTRELP	International Relations and Politics
+JAPAN	Japanese Studies
+LNGHSS	Linguistics
+LOGCPTA	Logic and Computation
+ML	Machine Learning
+MGLECO	Managerial Economics
+MSE	Materials Science and Engineering
+MSCCAM	Mathematical Sciences (Computational and Applied Mathematics)
+MSCDML	Mathematical Sciences (Discrete Mathematics and Logic)
+MSCM	Mathematical Sciences (Mathematics)
+MSCOR	Mathematical Sciences (Operations Research)
+MSCSTA	Mathematical Sciences (Statistics)
+MTHECO	Mathematical Sciences and Economics
+MSCSTAT	Mathematical and Statistical Sciences
+MTHARC	Mathematics and Architecture
+MTHART	Mathematics and Art
+MTHDES	Mathematics and Design
+MTHDRA	Mathematics and Drama
+MTHMUS	Mathematics and Music
+MEG	Mechanical Engineering
+MEDDES	Media Design
+MLESL	Modern Languages (English as a Second Language)
+MUSCOM	Music (Composition)
+MUSED	Music Education
+MP	Music Performance
+MUSPERF	Music Performance
+MPORG	Music Performance (Organ)
+MPPIA	Music Performance (Piano)
+MPVOI	Music Performance (Voice)
+MUSTECH	Music Technology
+MUSTHEOR	Music Theory
+NEUROSCI	Neuroscience
+PPIA	Performance (Piano)
+PVOI	Performance (Voice)
+PHI	Philosophy
+PHY	Physics
+PHYARC	Physics and Architecture
+PHYART	Physics and Art
+PHYDES	Physics and Design
+PHYDRA	Physics and Drama
+PHYMUS	Physics and Music
+PHYAPP	Physics/Applied Physics Track
+PHYAST	Physics/Astrophysics Track
+PHYCHM	Physics/Chemical Physics Track
+PHYCP	Physics/Computational Physics Track
+POLMGMT	Policy and Management
+POLSCI	Political Science
+POLPUB	Politics and Public Policy
+PW	Professional Writing
+PSY	Psychology
+PSYBSC	Psychology and Biological Sciences
+ROBSYSDV	Robotic Systems Development
+ROB	Robotics
+RUSSTU	Russian Studies
+STPP	Science, Technology and Public Policy
+SCICOM	Scientific Computing
+SH	Social History
+SCH	Social and Cultural History
+SDS	Social and Decision Sciences
+SE	Software Engineering
+SOUNDDES	Sound Design
+SPANISH	Spanish
+STA	Statistics
+STAMSC	Statistics (Mathematical Sciences Track)
+STAMSC	Statistics (Mathematical Statistics Track)
+STASN	Statistics (Statistics and Neuroscience Track)
+STAMACH	Statistics and Machine Learning
+TW	Technical Writing
+TWCM	Technical Writing and Communication
+
+
+
+['ACCOMP':'ACCOMP','ANTHRO':'ANTHRO','ANTHIS':'ANTHIS','ARC':'ARC','ART':'ART','AUDENGR':'AUDENGR','BSC':'BSC','BIOARC':'BIOARC','BIOART':'BIOART','BIODES':'BIODES','BIODRA':'BIODRA','BIOMUS':'BIOMUS','BSCPSY':'BSCPSY','BSCCB':'BSCCB','BSCNSC':'BSCNSC','BA':'BA','BATECH':'BATECH','BAENT':'BAENT','BAFIN':'BAFIN','BAGENMAN':'BAGENMAN','BAGMM':'BAGMM','BAITM':'BAITM','BAIMN':'BAIMN','BAMARK':'BAMARK','CHE':'CHE','CMY':'CMY','CMYARC':'CMYARC','CMYART':'CMYART','CMYDES':'CMYDES','CMYDRA':'CMYDRA','CMYMUS':'CMYMUS','CHINES':'CHINES','CIV':'CIV','CEE':'CEE','COGSCI':'COGSCI','COLPIA':'COLPIA','COMDES':'COMDES','COMP':'COMP','BSCCBIO':'BSCCBIO','COMPFIN':'COMPFIN','CS':'CS','CSARC':'CSARC','CSDES':'CSDES','CSDRA':'CSDRA','COND':'COND','CW':'CW','DECSCI':'DECSCI','DES':'DES','ECO':'ECO','ECOMTH':'ECOMTH','ECOSTA':'ECOSTA','ECE':'ECE','EPP':'EPP','ENG':'ENG','ENTECH':'ENTECH','ENVENG':'ENVENG','ETHICS':'ETHICS','EHPP':'EHPP','FRENCH':'FRENCH','FRANCO':'FRANCO','GAMEDESG':'GAMEDESG','GERMAN':'GERMAN','GS':'GS','GSM':'GSM','HSSARC':'HSSARC','HSSART':'HSSART','HSSDES':'HSSDES','HSSDRA':'HSSDRA','HSSMUS':'HSSMUS','HIS':'HIS','HISPOL':'HISPOL','HCI':'HCI','INDDES':'INDDES','IN':'IN','INFOSYS':'INFOSYS','ISSTA':'ISSTA','ISDES':'ISDES','INTDES':'INTDES','INTDES':'INTDES','INTRELP':'INTRELP','JAPAN':'JAPAN','LNGHSS':'LNGHSS','LOGCPTA':'LOGCPTA','ML':'ML','MGLECO':'MGLECO','MSE':'MSE','MSCCAM':'MSCCAM','MSCDML':'MSCDML','MSCM':'MSCM','MSCOR':'MSCOR','MSCSTA':'MSCSTA','MTHECO':'MTHECO','MSCSTAT':'MSCSTAT','MTHARC':'MTHARC','MTHART':'MTHART','MTHDES':'MTHDES','MTHDRA':'MTHDRA','MTHMUS':'MTHMUS','MEG':'MEG','MEDDES':'MEDDES','MLESL':'MLESL','MUSCOM':'MUSCOM','MUSED':'MUSED','MP':'MP','MUSPERF':'MUSPERF','MPORG':'MPORG','MPPIA':'MPPIA','MPVOI':'MPVOI','MUSTECH':'MUSTECH','MUSTHEOR':'MUSTHEOR','NEUROSCI':'NEUROSCI','PPIA':'PPIA','PVOI':'PVOI','PHI':'PHI','PHY':'PHY','PHYARC':'PHYARC','PHYART':'PHYART','PHYDES':'PHYDES','PHYDRA':'PHYDRA','PHYMUS':'PHYMUS','PHYAPP':'PHYAPP','PHYAST':'PHYAST','PHYCHM':'PHYCHM','PHYCP':'PHYCP','POLMGMT':'POLMGMT','POLSCI':'POLSCI','POLPUB':'POLPUB','PW':'PW','PSY':'PSY','PSYBSC':'PSYBSC','ROBSYSDV':'ROBSYSDV','ROB':'ROB','RUSSTU':'RUSSTU','STPP':'STPP','SCICOM':'SCICOM','SH':'SH','SCH':'SCH','SDS':'SDS','SE':'SE','SOUNDDES':'SOUNDDES','SPANISH':'SPANISH','STA':'STA','STAMSC':'STAMSC','STAMSC':'STAMSC','STASN':'STASN','STAMACH':'STAMACH','TW':'TW','TWCM':'TWCM']

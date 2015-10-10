@@ -1,0 +1,3189 @@
+{
+    "courses": {
+        "73111": {
+            "name": "Internship I",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Goldburg"],
+                "sections": [],
+                "lecture": "M"
+            }, {
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Goldburg"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "By permission of the Undergraduate Economics Program.",
+            "department": "Economics",
+            "coreqs": "",
+            "semester": ["F", "S", "M"]
+        },
+        "82103": {
+            "name": "Elementary French I Online",
+            "prereqs": "",
+            "units": 12.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Youngs"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course is designed for students with no prior experience with French and who need a more flexible approach to language learning than that offered in a standard classroom course. Beginning language learners will develop communicative competence in the four basic skills of listening, speaking, reading and writing. Basic vocabulary and sentence structures for use in essential daily-life situations, as well as cultural information, are taught through the course materials and assignments. Materials are web-based, with extensive use of Internet technologies for listening, reading, and communication. During regular semesters, this course is offered in a hybrid mode requiring one 80-minute class per week in addition to weekly 20-minute individual meetings with the instructor or a peer speaking assistant. There is a materials fee for taking this course which is paid by credit card on first log-in to the course website. A student with prior experience in French must take the placement exam. Instructions for the placement exam are available in Baker Hall 160. Prerequisite: None",
+            "department": "Modern Languages",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "15122": {
+            "name": "Principles of Imperative Computation",
+            "prereqs": "15-112",
+            "units": 10.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "GHC 4307",
+                    "end": "11:50AM",
+                    "begin": "10:30AM",
+                    "days": "MTWRF"
+                }, {
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": "04:20PM",
+                    "begin": "03:00PM",
+                    "days": "MW"
+                }, {
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "GHC 4307",
+                    "end": "04:20PM",
+                    "begin": "03:00PM",
+                    "days": "TR"
+                }],
+                "instructors": ["Simmons"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "For students with a basic understanding of programming (variables, expressions, loops, arrays, functions). Teaches imperative programming and methods for ensuring the correctness of programs. Students will learn the process and concepts needed to go from high-level descriptions of algorithms to correct imperative implementations, with specific application to basic data structures and algorithms. Much of the course will be conducted in a subset of C amenable to verification, with a transition to full C near the end. This course prepares students for 15-213 and 15-210. NOTE: students must achieve a C or better in order to use this course to satisfy the pre-requisite for any subsequent Computer Science course. Course Website: http://www.cs.cmu.edu/~rjsimmon/15122-s15/",
+            "department": "Computer Science",
+            "coreqs": "21-127 and 15-151",
+            "semester": ["F", "S"]
+        },
+        "3601": {
+            "name": "Computational Biology Internship",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Subramanian"],
+                "sections": [],
+                "lecture": "M"
+            }, {
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Subramanian"],
+                "sections": [],
+                "lecture": "R"
+            }],
+            "desc": "This course allows a student to gain computational biology experience in a \"real-world\" setting. Internships vary widely in scope, but common to all is the chance to practice computational biology skills acquired in the classroom. Typically, students seek and secure their own internships.",
+            "department": "Biological Sciences",
+            "coreqs": "",
+            "semester": ["F", "S", "M"]
+        },
+        "66221": {
+            "name": "Topics of Law: Introduction to Intellectual Property Law",
+            "prereqs": "",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "PH A18A",
+                    "end": "09:50PM",
+                    "begin": "06:30PM",
+                    "days": "TR"
+                }],
+                "instructors": ["Cooper"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "Topics for this course vary, to include such foci as intellectual property, introduction to U.S. law, great American trials, and the U.S. Constitution. Topics and courses are designed to be broadly relevant and interesting for university undergraduates, and not narrowly tailored for students interested in law school.",
+            "department": "Dietrich College Interdisciplinary",
+            "coreqs": "",
+            "semester": []
+        },
+        "51499": {
+            "name": "Senior Independent Study",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Instructor TBA"],
+                "sections": [],
+                "lecture": "M"
+            }, {
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Instructor TBA"],
+                "sections": [],
+                "lecture": "T"
+            }],
+            "desc": "Guidelines for independent study in the Design Office. Proposals must be approved by faculty before pre-registration.",
+            "department": "Design",
+            "coreqs": "",
+            "semester": ["F", "S", "M"]
+        },
+        "82202": {
+            "name": "Intermediate French II",
+            "prereqs": "82-203 or 82-201",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "SH 212",
+                    "end": "11:50AM",
+                    "begin": "10:30AM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Niang"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "At the intermediate level, students will continue to improve listening, speaking, reading and writing skills with the goal of becoming more proficient in daily and extended communication needs. In addition to an ongoing review of basic grammar, a greater variety of grammar, expressions and complicated sentence structures will be taught so that students can carry on more sophisticated conversations on various topics. In-class activities and homework using authentic texts related to the broad spectrum of French and francophone cultures will be used to integrate language learning with content and culture. Regular homework, quizzes, tests, presentations, essays, and class participation are mandatory. A student with prior experience in French must take the placement exam. Instructions for the placement exam are available in Baker Hall 160. Prerequisite: 82-201 or placement",
+            "department": "Modern Languages",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "6300": {
+            "name": "Junior Research Project",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Instructor TBA"],
+                "sections": [],
+                "lecture": "M"
+            }],
+            "desc": "Research projects under the direction of the Chemical Engineering faculty. The nature of the project, the number of units, and the criteria for grading are to be determined between the student and the faculty supervisor. The agreement should then be summarized in a one-page project description for review by the faculty advisor of the student. A final written report or an oral presentation of the results is required.",
+            "department": "Chemical Engineering",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "82304": {
+            "name": "The Francophone World",
+            "prereqs": "82-303",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "PH 225B",
+                    "end": "02:50PM",
+                    "begin": "01:30PM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Niang"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course introduces the students of French to several of the francophone regional cultures outside of France, including North and sub-Saharan Africa, Belgium, Switzerland, Quebec, Louisiana, and the French Antilles. The culture commonly associated with the French language is the primarily Christian and Cartesian European tradition. Through this course, students will learn about the socio-political and cultural realities of the Francophone sphere. The course will also explore the multiple synthetic cultural realities which have arisen through the colonial and post-colonial processes of contact between European and non-European cultures, and which are now expressed through the medium of the French language. Students will expand their interpersonal and presentational communication skills in both written and spoken French, improve reading and listening skills through various media so as to analyze content objectively, use appropriate vocabulary and grammar to express critical judgments, synthesize ideas from different source materials, and continue perfecting cultural analysis skills. Assignments will include using accepted academic conventions for research documentation and exposition. Social debates and current events will add a valuable perspective to our study. Prerequisite: 82-303 or permission of French and Francophone Studies advisor",
+            "department": "Modern Languages",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "80100": {
+            "name": "Introduction to Philosophy",
+            "prereqs": "",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "BH 150",
+                    "end": "01:20PM",
+                    "begin": "12:00PM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Genin"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "In this introductory course we will explore three major areas of Philosophy: Ethics, Metaphysics, and Epistemology. Accordingly the course is divided into three sections. In each section we will read primary sources and discuss some of the main philosophic problems associated with that area. These will include: moral problems (Ethics), problems rising from the debates about free-will, personal identity or intelligence (Metaphysics), and inquiries about the scope and limits of human knowledge (Epistemology). We will then introduce some theories designed to solve such problems, and try to understand the strengths and weaknesses of these theories. We will apply different techniques and theories to issues that we might encounter in the real world. We will use class discussions, homeworks and papers to learn skills for evaluating arguments. These skills include: how to present a philosophic argument, what are the assumptions that justify it, what are its weaknesses and its strengths, whether such weaknesses can be resolved and, if they cannot be resolved, why.",
+            "department": "Philosophy",
+            "coreqs": "",
+            "semester": ["F", "S", "M"]
+        },
+        "82137": {
+            "name": "Chinese Calligraphy: Culture and Skills",
+            "prereqs": "",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "SH 212",
+                    "end": "02:50PM",
+                    "begin": "01:30PM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Li"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "Chinese calligraphy is a crucial part of Chinese culture and world art. It is also a clear manifestation of Chinese philosophy that has influenced Chinese people for several thousand years. This introductory course on Chinese calligraphy provides students with basic knowledge of Chinese calligraphy and how it mirrors Chinese history, culture, and philosophy. It will also introduce the fundamental characteristics of the Chinese writing system, its cultural content, and principles of formation as well as the skills used in Chinese calligraphy. At the end of the course, students will have a good understanding of Chinese characters and their cultural and philosophical background but also be able to appreciate the art and beauty in Chinese calligraphy. Classes include lectures, movies, discussions, hands-on practice, and projects. Field trips and guest speakers may also be arranged if opportunities should arise. Prerequisite: None",
+            "department": "Modern Languages",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "70499": {
+            "name": "Internship",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Cofield"],
+                "sections": [],
+                "lecture": "M"
+            }],
+            "desc": "BA students are strongly encouraged to undertake internships. Students doing an internship of an academic nature do so under the supervision of a faculty member and receive a letter grade. Non-academic internships are possible for pass-fail credit with the approval of the Department Director. Enrollment by permission of the BA Program.",
+            "department": "Business Administration",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "66320": {
+            "name": "Internship",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Devine"],
+                "sections": [],
+                "lecture": "M"
+            }],
+            "desc": "Internships-for-credit allow students to apply course-based knowledge in a non-classroom setting, under joint supervision and evaluation by an on-site supervisor and a faculty sponsor. Approved internships must conform to college guidelines for internships-for-credit, and are available by permission only arranged through the Associate Dean's Office in Baker Hall 154.",
+            "department": "Dietrich College Interdisciplinary",
+            "coreqs": "",
+            "semester": ["F", "S", "M"]
+        },
+        "73395": {
+            "name": "Independent Study in Economics",
+            "prereqs": "21-120 and (21-268 or 21-256 or 21-259 or 21-269) and 73-100 and 73-230",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Instructor TBA"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "The Independent Study course in economics allows the student to pursue his or her own research interests in any of a variety of topics in economics. A typical independent study course involves a semester long project under the supervision of an appropriate faculty advisor. The nature and scope of the project are determined by the student and faculty advisor. Minimum grade standard of \"C\" applies only to economics courses.",
+            "department": "Economics",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "60590": {
+            "name": "Internship",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Instructor TBA"],
+                "sections": [],
+                "lecture": "M"
+            }],
+            "desc": "Art Internships are open to all BFA, BHA, BSA and BCSA Art students. Internships may take place with appropriate individuals or organizations within or outside of Carnegie Mellon University. The requirements for an internship are in the School of Art Handbook (available at the School of Art website). Prior to being enrolled for an internship, students must complete an Internship Proposal Form, which defines the goals of the internship. This form must be signed by their site supervisor and approved by the Assistant Head of the School of Art. Forms are available in the bins on the 3rd floor of CFA. Junior and Senior Art majors only.",
+            "department": "Art",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "57149": {
+            "name": "Basic Harmony I",
+            "prereqs": "",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "CFA A2",
+                    "end": "11:50AM",
+                    "begin": "10:30AM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Domencic"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course deals with common-practice harmony. It includes triads and their inversions, tonality and modality, non-harmonic tones, cadences, and the basic concepts of modulation. It includes work on fundamentals for inexperienced students.",
+            "department": "Music",
+            "coreqs": "",
+            "semester": ["F"]
+        },
+        "82101": {
+            "name": "Elementary French I",
+            "prereqs": "",
+            "units": 12.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "PH 125B",
+                    "end": "10:20AM",
+                    "begin": "09:00AM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Van Compernolle"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course is for students with no prior experience in French. Using a proficiency-oriented approach, students will develop contextually appropriate interpersonal communication skills in both written and spoken French, develop reading and listening skills through the use of various media, understand fundamental grammar, acquire vocabulary, and gain a basic understanding of French and francophone cultures through class activities. Regular homework, quizzes, tests, presentations, and class participation are mandatory (four in-class hours per week). The elementary level is also designed to help students learn to reflect and draw upon strategies used by good language learners in their second language study. A student with prior experience in French must take the placement exam. Instructions for taking the placement exam are available in Baker Hall 160. Prerequisite: None",
+            "department": "Modern Languages",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "82191": {
+            "name": "Elementary Russian I",
+            "prereqs": "",
+            "units": 12.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "PH 225B",
+                    "end": "10:20AM",
+                    "begin": "09:00AM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Kats"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course is for students who have never studied Russian. It begins the Russian language sequence and is offered in the fall semester only. The course takes a communicative approach to teaching basic skills in listening, speaking, reading and writing. Language is presented in communicative contexts illustrating cultural aspects of daily Russian life. The elementary level is also designed to help students learn to reflect and draw upon strategies used by good language learners in their second language study. Daily homework and participation in class are mandatory (four in-class hours per week), as is weekly consultation and conversation practice with a course assistant. A student with prior experience in Russian must take the placement exam. Instructions for the placement exam are available in Baker Hall 160. Prerequisite: None",
+            "department": "Modern Languages",
+            "coreqs": "",
+            "semester": ["F"]
+        },
+        "70207": {
+            "name": "Probability and Statistics for Business Applications",
+            "prereqs": "21-112 or 21-120",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "SH 208",
+                    "end": "10:20AM",
+                    "begin": "09:00AM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Doroudi"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "Elementary ideas in probability, statistics, and data analysis are presented in the context of their importance to modern business management.",
+            "department": "Business Administration",
+            "coreqs": "",
+            "semester": ["S", "M"]
+        },
+        "66501": {
+            "name": "H&SS Senior Honors Thesis I",
+            "prereqs": "",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Instructor TBA"],
+                "sections": [],
+                "lecture": "M"
+            }],
+            "desc": "This sequence is open only to those seniors who have been admitted to the H&SS Senior Honors Program. This is the first semester of a two-semester sequence that culminates in an original, year-long independent research or creative project. Thesis topics are selected by faculty and students. Course Website: http://www.cmu.edu/dietrich/undergraduate/programs/shp/index.html",
+            "department": "Dietrich College Interdisciplinary",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "57188": {
+            "name": "Repertoire and Listening for Musicians",
+            "prereqs": "",
+            "units": 1.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Johnston"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course is the required co-requisite listening component for Survey of Western Music History (57-173). In this course, students listen critically to essential music which has stood the test of time and to superior performances. It features 2-3 hours of listening per week.",
+            "department": "Music",
+            "coreqs": "57-173",
+            "semester": ["F"]
+        },
+        "82342": {
+            "name": "Spain: Language and Culture",
+            "prereqs": "82-244 or 82-242",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "PH A19A",
+                    "end": "11:50AM",
+                    "begin": "10:30AM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Gulish"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course is part of the post-intermediate, 300-level program that forms the introduction to the major or minor in Hispanic Studies. Students may begin with any one of the three courses at this level or they may be taken concurrently. FALL 2015: This course will focus on the cultures of Spain, the autonomous regions, and the creation of a national identity as a reaction to the multiple ethnicities that have inhabited the Iberian Peninsula since ancient times. \u00bfQu\u00e9 es Espa\u00f1a? \u00bfC\u00f3mo es Espa\u00f1a? \u00bfQu\u00e9 escribe Espa\u00f1a? \u00bfQu\u00e9 est\u00e1 haciendo Espa\u00f1a ahora? To answer these questions, students will undertake the study of important historical moments and issues that have shaped the development of Spain, through literature, language, politics, geography, history, music, art, film and architecture of Spain. Students will explore the diversity of cultures within Spain and their past and present struggles in issues of war, religion, gender, race, class, immigration, social movements among others. In addition to building an understanding of the cultures of Spain, this course advances proficiency in grammatical accuracy and verbal communication. Students are expected to work in groups, participate passionately, give class presentations and communicate fully in Spanish. A short final essay in Spanish is required.",
+            "department": "Modern Languages",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "18390": {
+            "name": "ECE CO-OP",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Marculescu"],
+                "sections": [],
+                "lecture": "M"
+            }],
+            "desc": "The Department of Electrical and Computer Engineering at Carnegie Mellon considers experiential learning opportunities important educational options for its undergraduate students. One such option is cooperative education, which provides a student with an extended period of exposure with a company. To participate, students must complete an ECE Co-op Approval form (located in HH 1115) and submit for approval. Students must possess at least junior status and have an overall grade point average of 3.0 or above. All co-ops must be approximately 8 months in uninterrupted length. If the co-op is approved, the ECE Undergraduate Studies Office will add the course to the student's schedule. Upon completion of the co-op experience, students must submit a 1-2 page report of their work experience, and a 1-2 page evaluation from the company supervisor to the ECE Undergraduate Office. International students should also be authorized by the Office of International Education (OIE). More information regarding CPT is available on OIE's website.",
+            "department": "Electrical & Computer Engineering",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "27756": {
+            "name": "Masters Project",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Rohrer"],
+                "sections": [],
+                "lecture": "M"
+            }],
+            "desc": "Individual research project, including laboratory, theroetical, library or design work followed by a written or oral report on the work accomplished.",
+            "department": "Materials Science & Engineering",
+            "coreqs": "",
+            "semester": ["F", "S", "M"]
+        },
+        "39500": {
+            "name": "Honors Research Project",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Instructor TBA"],
+                "sections": [],
+                "lecture": "M"
+            }],
+            "desc": "Juniors who have an accumulated QPA of at least 3.5 receive an invitation to participate in the program. This course, open by invitation only, will provide the opportunity for close interaction with a faculty member through independent honors research in a number of disciplinary and interdisciplinary areas, as part of the CIT Honors Research Program. Students will work on their projects during their senior year, earning the equivalent of 18-24 units. Students are required to register for CIT Honor Research Project 39-500. To receive CIT College Honors, a student must complete at least 18 units in 39-500 on the same research topic. Students are also required to participate in the CIT poster competition at the Undergraduate Research Symposium, \"Meeting of the Minds,\" a university-wide celebration of undergraduate research.",
+            "department": "CIT Interdisciplinary",
+            "coreqs": "",
+            "semester": ["F", "S", "M"]
+        },
+        "82271": {
+            "name": "Intermediate Japanese I",
+            "prereqs": "82-172",
+            "units": 12.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "SH 222",
+                    "end": "11:50AM",
+                    "begin": "10:30AM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Huang"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course is the first part of a two-semester course sequence (82-271, 82-272). At the intermediate level, students will continue to improve the basic skills of listening, speaking, reading and writing skills with the goal of becoming more proficient in daily communication needs, and takes an integrated approach to the study of Japanese language and culture, consisting of grammar review, reading, and intensive practice in written and spoken Japanese. Course materials include authentic audiovisual and written texts in addition to the assigned textbooks. Also integrated are cultural explorations through direct interactions with native speakers. Regular homework, quizzes, tests, presentations, essays, and class participation are mandatory (four in-class hours per week). A student with prior experience in Japanese must take the placement exam. Instructions for the placement exam are available in Baker Hall 160. Prerequisite: 82-172 or placement",
+            "department": "Modern Languages",
+            "coreqs": "",
+            "semester": ["F"]
+        },
+        "33115": {
+            "name": "Physics for Future Presidents",
+            "prereqs": "",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Doha, Qatar",
+                    "room": "CMB 1030",
+                    "end": "02:35PM",
+                    "begin": "01:15PM",
+                    "days": "UMTWR"
+                }],
+                "instructors": ["Vogel"],
+                "sections": [],
+                "lecture": "W"
+            }],
+            "desc": "Countless topics of social and political importance are intimately related to science in general and physics in particular. Examples include energy production, global warming, radioactivity, terrorism, and space travel. This course aims to provide key bits of knowledge based on which such issues can be discussed in a meaningful way, i.e., on the level of arguments and not just vague beliefs. We will cover an unusually wide range of topics, including energy, heat, gravity, atoms, radioactivity, chain reactions, electricity, magnetism, waves, light, weather, and climate. No calculus or algebra will be required. The course is open for all students at CMU.",
+            "department": "Physics",
+            "coreqs": "",
+            "semester": ["F"]
+        },
+        "9445": {
+            "name": "Undergraduate Research",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Stump"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "Properly qualified students may undertake research projects under the direction of members of the faculty, normally 6 to 12 hrs/week. A written, detailed report describing the project and results is required. Course may be taken only with the consent of a faculty research advisor in chemistry or on occasion in another department provided that the project is chemical in nature and with permission of the Director of Undergraduate Studies. The number of units taken generally corresponds to the actual number of hours the student actually spends in the lab doing research during the week. Maximum number of units taken per semester is 18.",
+            "department": "Chemistry",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "18231": {
+            "name": "Sophomore Projects",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Marculescu"],
+                "sections": [],
+                "lecture": "M"
+            }],
+            "desc": "The Department of Electrical and Computer Engineering at Carnegie Mellon considers experiential learning opportunities important educational options for its undergraduate students. One such option is conducting undergraduate research with a faculty member. Students do not need to officially register for undergraduate research unless they want it listed on their official transcripts. An ECE student who is involved in a research project and is interested in registering this undergraduate research for course credit on the official transcript may request to be enrolled in this course. To do this, the student should first complete the on-line undergraduate research form available on the ECE undergraduate student page. Once the form has been submitted and approved by the faculty member the student is conducting the research with, the ECE Undergraduate Office will add the course to the student's schedule. Typical credit is granted as one hour of research per week is equal to one unit of credit.",
+            "department": "Electrical & Computer Engineering",
+            "coreqs": "",
+            "semester": ["F"]
+        },
+        "79231": {
+            "name": "American Foreign Policy: 1945-Present",
+            "prereqs": "",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "PH 225B",
+                    "end": "11:50AM",
+                    "begin": "10:30AM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Kats"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course provides an introduction to the study of U.S. foreign policy. Its main focus will be on problems and possibilities confronting the world during the Cold War as well as global political changes in the post-Cold War era and since 9/11. Important foreign policy strategies which will be discussed include the strategy of containment, NSC-68, the Eisenhower-Dulles \"New Look,\" the Kennedy-Johnson \"flexible response,\" \"d\u00e9tente,\" the democratic peace, and contemporary approaches to combating global terror. Theoretical readings in history and political science will be used as analytic filters to assess both scholarly evaluations of American foreign policy and key historical episodes.",
+            "department": "History",
+            "coreqs": "",
+            "semester": []
+        },
+        "80214": {
+            "name": "Computing, AI, and Philosophy",
+            "prereqs": "",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "BH 150",
+                    "end": "11:50AM",
+                    "begin": "10:30AM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Szabo"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "The aim of the course is to give an interdisciplinary introduction to computation, artificial intelligence, and philosophical questions regarding them. It will also include historical and sociological issues concerning these topics as well as their representation in the arts. The course does not require a background in mathematics, computer science or philosophy.",
+            "department": "Philosophy",
+            "coreqs": "",
+            "semester": ["M"]
+        },
+        "76101": {
+            "name": "Interpretation and Argument",
+            "prereqs": "",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "BH 235A",
+                    "end": "11:50AM",
+                    "begin": "10:30AM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Vukoder"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "76-101 introduces first-year students to an advanced, inductive process for writing an argument from sources. Because the course is based upon empirical research about professional academic writers, students will learn expert practices for authoring their own arguments that contribute to an existing community of authors. Because reading and writing are inseparable practices for academic writing, students will read a variety of texts so that they can explore and critically evaluate a single issue from multiple perspectives and from different disciplinary genres. Students will learn methods for summarizing, synthesizing, and analyzing arguments within that issue so that they may contribute an argument of their own. The course is also geared toward helping students understand the requirements of advanced college-level writing. Our students are typically very accomplished readers and writers, and we are eager to push their accomplishments toward greater excellence. For this purpose, students will build upon their composing knowledge by reflecting and thinking strategically as they plan, write, and revise their own texts. Ultimately, they will develop critical reading, rhetorical and linguistic practices for analyzing and producing texts within the context of an academic community. Each section of 76-101 is structured by the same objectives and core assignments. There is a core vocabulary and set of heuristics that all sections teach. However, students may find particular issues more appealing than others-we encourage students to pursue their interests, but we also ask that students engage any 76-101 course with intellectual curiosity. Due to the limits of our schedule, we are unable to meet each student's individual preferences for course topics, but we do offer a wide variety from which to choose. Section descriptions are posted at: http://www.cmu.edu/hss/english/first_year/index.html",
+            "department": "English",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "21256": {
+            "name": "Multivariate Analysis",
+            "prereqs": "21-120 or 21-112",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "WEH 5312",
+                    "end": "11:50AM",
+                    "begin": "10:30AM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Flaherty"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course is designed for students in Economics or Business Administration. Matrix algebra: vectors, matrices, systems of equations, dot product, cross product, lines and planes. Optimization: partial derivatives, the chain rule, gradient, unconstrained optimization, constrained optimization (Lagrange multipliers and the Kuhn-Tucker Theorem). Improper integrals. Multiple integration: iterated integrals, probability applications, triple integrals, change of variables. 3 hrs lec., 1 hr rec.",
+            "department": "Mathematical Sciences",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "33106": {
+            "name": "Physics I for Engineering Students",
+            "prereqs": "",
+            "units": 12.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DH A301D",
+                    "end": "11:50AM",
+                    "begin": "09:30AM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Klein"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This is a first semester, calculus-based introductory physics course. Basic principles of mechanics and thermodynamics are developed. Topics include vectors, displacement, velocity, acceleration, force, equilibrium, mass, Newton's laws, gravitation, work, energy, momentum, impulse, temperature, heat, equations of state, thermodynamic processes, heat engines, refrigerators, first and second laws of thermodynamics, and the kinetic theory of gases.",
+            "department": "Physics",
+            "coreqs": "21-120",
+            "semester": ["F", "S"]
+        },
+        "33111": {
+            "name": "Physics I for Science Students",
+            "prereqs": "",
+            "units": 12.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Doha, Qatar",
+                    "room": "CMB 2052",
+                    "end": "02:35PM",
+                    "begin": "01:15PM",
+                    "days": "UMTWR"
+                }],
+                "instructors": ["Holman"],
+                "sections": [],
+                "lecture": "W"
+            }],
+            "desc": "This calculus based course combines the basic principles of mechanics with some quantum physics and relativity to explain nature on both a microscopic and macroscopic scale. The course will build models to describe the universe based on a small number of fundamental physics principles. Some simple computer modeling will be done to develop insight into the solving of problems using Newton's laws. Topics covered will include vectors, momentum, force, gravitation, oscillations, energy, quantum physics, center of mass motion, angular momentum, statistical physics, and the laws of thermodynamics. No computer experience is needed.",
+            "department": "Physics",
+            "coreqs": "21-120",
+            "semester": ["F", "S"]
+        },
+        "73112": {
+            "name": "Internship II",
+            "prereqs": "",
+            "units": 3.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Goldburg"],
+                "sections": [],
+                "lecture": "M"
+            }, {
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Goldburg"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "By permission of the Undergraduate Economics Program.",
+            "department": "Economics",
+            "coreqs": "",
+            "semester": ["F", "S", "M"]
+        },
+        "21127": {
+            "name": "Concepts of Mathematics",
+            "prereqs": "",
+            "units": 10.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "WEH 5312",
+                    "end": "02:50PM",
+                    "begin": "01:30PM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Gheorghiciuc"],
+                "sections": [],
+                "lecture": "S"
+            }, {
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "SH 214",
+                    "end": "02:50PM",
+                    "begin": "01:30PM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Gutman"],
+                "sections": [],
+                "lecture": "T"
+            }],
+            "desc": "This course introduces the basic concepts, ideas and tools involved in doing mathematics. As such, its main focus is on presenting informal logic, and the methods of mathematical proof. These subjects are closely related to the application of mathematics in many areas, particularly computer science. Topics discussed include a basic introduction to elementary number theory, induction, the algebra of sets, relations, equivalence relations, congruences, partitions, and functions, including injections, surjections, and bijections. A basic introduction to the real numbers, rational and irrational numbers. Supremum and infimum of a set. 3 hrs. lec., 2 hrs. rec.",
+            "department": "Mathematical Sciences",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "24492": {
+            "name": "Department Research Honors",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Hertz"],
+                "sections": [],
+                "lecture": "M"
+            }, {
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Hertz"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course is designed to give students increased exposure to \"open-ended\" problems and research type projects. It involves doing a project on a research or design topic and writing a thesis describing that project. The project would be conducted under the supervision of a mechanical engineering faculty member (the advisor), and must be approved by the advisor before inception. This course can be taken at any time after the Junior year and before graduation which includes the summer after the Junior year. Completion of 18 units of this course with a grade of B or better is a partial fulfillment of the requirements for Departmental Research Honors. Course Website: http://www.cmu.edu/me/undergraduate/index.html",
+            "department": "Mechanical Engineering",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "33451": {
+            "name": "Senior Research",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Ghosh"],
+                "sections": [],
+                "lecture": "M"
+            }],
+            "desc": "Open to all senior physics majors. May include research done in a research lab, extending the capabilities of a teaching lab, or a theoretical or computational physics project. The student experiences the less structured atmosphere of a research program where there is much room for independent initiative. Modern Physics Laboratory, 33-340, should precede this course, though it is not required. A list of research projects is available. The student must contact a faculty member and/or the Assistant Head for the Undergraduate Affairs before registering so that student project pairings can be set. Reports on results are required at end of semester.",
+            "department": "Physics",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "52590": {
+            "name": "BXA Internship",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Hagan", "Murray"],
+                "sections": [],
+                "lecture": "M"
+            }],
+            "desc": "An internship is a supervised professional work experience with clear links to a student's academic goals. BXA students may choose to complete a BXA Internship for elective credit with appropriate individuals or organizations within or outside of Carnegie Mellon University. Junior and senior BXA students in good academic standing are eligible to receive academic credit for one internship. Grading is pass/no pass only. Prior to enrolling in an internship, the student must have a \"BXA Internship Agreement Form\" signed by their site supervisor and approved by their BXA academic advisor.",
+            "department": "BXA Intercollege Degree Programs",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "21590": {
+            "name": "Practicum",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Walker", "Mackey"],
+                "sections": [],
+                "lecture": "M"
+            }],
+            "desc": "Students in this course gain experience with the application of mathematical models to business and/or industrial problems during an internship. The internship is set up by the student in consultation with a faculty member. The students must also have a mentor at the firm providing the internship, who together with the faculty member develops a description of the goals of the internship. The internship must include the opportunity to learn about problems which have mathematical content.",
+            "department": "Mathematical Sciences",
+            "coreqs": "",
+            "semester": ["F", "S", "M"]
+        },
+        "36201": {
+            "name": "Statistical Reasoning and Practice",
+            "prereqs": "",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "PH 226B",
+                    "end": "11:50AM",
+                    "begin": "10:30AM",
+                    "days": "MTWRF"
+                }, {
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "BH 140E",
+                    "end": "11:50AM",
+                    "begin": "10:30AM",
+                    "days": "TR"
+                }],
+                "instructors": ["Elliott"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course will introduce students to the basic concepts, logic, and issues involved in statistical reasoning, as well as basic statistical methods used to analyze data and evaluate studies. The major topics to be covered include methods for exploratory data analysis, an introduction to research methods, elementary probability, and methods for statistical inference. The objectives of this course are to help students develop a critical approach to the evaluation of study designs, data and results, and to develop skills in the application of basic statistical methods in empirical research. An important feature of the course will be the use of the computer to facilitate the understanding of important statistical ideas and for the implementation of data analysis. In addition to three lectures a week, students will attend a computer lab once a week. Examples will be drawn from areas of applications of particular interest to H&SS students. Not open to students who have received credit for 36-207/70-207, 36-220, 36-225, 36-625, or 36-247. Course Website: http://www.stat.cmu.edu/academics/courselist",
+            "department": "Statistics",
+            "coreqs": "",
+            "semester": ["F", "S", "M"]
+        },
+        "21259": {
+            "name": "Calculus in Three Dimensions",
+            "prereqs": "21-122",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "SH 214",
+                    "end": "10:20AM",
+                    "begin": "09:00AM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Borg"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "Vectors, lines, planes, quadratic surfaces, polar, cylindrical and spherical coordinates, partial derivatives, directional derivatives, gradient, divergence, curl, chain rule, maximum-minimum problems, multiple integrals, parametric surfaces and curves, line integrals, surface integrals, Green-Gauss theorems. 3 hrs. lec., 1 hr. rec.",
+            "department": "Mathematical Sciences",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "82161": {
+            "name": "Elementary Italian I",
+            "prereqs": "",
+            "units": 12.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "PH 225B",
+                    "end": "05:20PM",
+                    "begin": "03:30PM",
+                    "days": "MTWF"
+                }],
+                "instructors": ["Puppo"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course is for students with no prior experience in Italian. Using a proficiency-oriented approach, students will develop contextually appropriate interpersonal communication skills in both written and spoken Italian, develop reading and listening skills through the use of various media, understand fundamental grammar, acquire vocabulary, and gain a basic understanding of Italian culture through class activities. Regular homework, quizzes, tests, presentations, and class participation are mandatory (four in-class hours per week). The elementary level is also designed to help students learn to reflect and draw upon strategies used by good language learners in their second language study. A student with prior experience in Italian must contact the Department of Modern Languages for placement. Prerequisite: None",
+            "department": "Modern Languages",
+            "coreqs": "",
+            "semester": ["F"]
+        },
+        "79491": {
+            "name": "Independent Study",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Instructor TBA"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "An Independent Study is meant for students with a special interest in an area not covered by a formal history course. Readings and other work are negotiated between the student and an individual faculty member.",
+            "department": "History",
+            "coreqs": "",
+            "semester": []
+        },
+        "19500": {
+            "name": "Directed Study in EPP: Undergraduate",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Small", "Matthews"],
+                "sections": [],
+                "lecture": "M"
+            }],
+            "desc": "Students may do undergraduate research as one course for EPP technical elective credit, with an EPP faculty member, or on an approved project with a faculty member from another department. The research credits must be pre-approved by your advisor, and should result in a written product, one copy of which should be sent to EPP.",
+            "department": "Engineering & Public Policy",
+            "coreqs": "",
+            "semester": ["F", "S", "M"]
+        },
+        "82144": {
+            "name": "Elementary Spanish II Online",
+            "prereqs": "82-141 or 82-143",
+            "units": 12.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Tardio"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "Elementary Spanish Online II is the second part of a two-course sequence, emphasizing the development of communicative language and cultural competence. Students will work towards improving their writing, reading, listening and speaking abilities in Spanish, such that they become comfortable working with a variety of topics from Spanish-speaking cultural areas. Students will develop basic interactional and routine public communication patterns. This course is designed for students who need a more flexible approach to language learning than that offered in a standard classroom course. All materials are Web-based, with extensive use of Internet technologies for research, writing, and communication. During regular semesters, this course is offered in a hybrid mode requiring one 80-minute class per week in addition to weekly 20-minute individual meetings with the instructor or a peer speaking assistant. There is a materials fee for taking this course which is paid by credit card on first log-in to the course website. A student with prior experience in Spanish must take the placement exam. Instructions for the placement exam are available in Baker Hall 160. Prerequisite: 82-141 or 82-143 or placement",
+            "department": "Modern Languages",
+            "coreqs": "",
+            "semester": ["S"]
+        },
+        "42200": {
+            "name": "Sophomore BME Research Project",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Zapanta"],
+                "sections": [],
+                "lecture": "M"
+            }],
+            "desc": "Research projects for sophomores under the direction of a regular or adjunct BME faculty member. Arrangements may also be made via the Associate Head of BME for off-campus projects provided that a regular or adjunct BME faculty member agrees to serve as a co-advisor. The nature of the project, the number of units, and the criteria for grading are to be determined between the student and the research advisor. The agreement should be summarized in a two-page project description with sign-off by the research advisor and a copy submitted for review and filing with the BME Department. A final written report or oral presentation of the results is required. Units may vary from 9 to 12 according to the expected time commitment, with one unit corresponding to 1 hour of research per week. One (but not more than one) semester of research, if registered for at least 9 units, may be counted as a restricted elective course toward the BME additional major.",
+            "department": "Biomedical Engineering",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "36217": {
+            "name": "Probability Theory and Random Processes",
+            "prereqs": "21-112 or 21-122 or 21-123 or 21-256 or 21-259",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "PH A18C",
+                    "end": "01:20PM",
+                    "begin": "12:00PM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Ciollaro"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course provides an introduction to probability theory. It is designed for students in electrical and computer engineering. Topics include elementary probability theory, conditional probability and independence, random variables, distribution functions, joint and conditional distributions, limit theorems, and an introduction to random processes. Some elementary ideas in spectral analysis and information theory will be given. A grade of C or better is required in order to use this course as a pre-requisite for 36-226 and 36-410. Not open to students who have received credit for 36-225, or 36-625. Course Website: http://www.stat.cmu.edu/academics/courselist",
+            "department": "Statistics",
+            "coreqs": "",
+            "semester": ["F", "S", "M"]
+        },
+        "27454": {
+            "name": "Supervised Reading",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Instructor TBA"],
+                "sections": [],
+                "lecture": "M"
+            }],
+            "desc": "This course provides the opportunity for a detailed study of the literature on some subject under the guidance of a faculty member, usually but not necessarily in preparation for the Capstone Course, 27-401/402.",
+            "department": "Materials Science & Engineering",
+            "coreqs": "",
+            "semester": ["S"]
+        },
+        "33120": {
+            "name": "Science and Science Fiction",
+            "prereqs": "",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Doha, Qatar",
+                    "room": "CMB 2052",
+                    "end": "12:50PM",
+                    "begin": "11:30AM",
+                    "days": "UMTWR"
+                }],
+                "instructors": ["Holman"],
+                "sections": [],
+                "lecture": "W"
+            }],
+            "desc": "We will view and critique the science content in a selection of science fiction films, spanning more than 100 years of cinematic history, and from sci-fi TV shows from the past 50+ years. Guided by selected readings from current scientific literature, and aided by order-of-magnitude estimates and careful calculations, we will ponder whether the films are showing things which may fall into one of the following categories: Science fiction at the time of production, but currently possible, due to recent breakthroughs. Possible, in principle, but beyond our current technology. Impossible by any science we know. Topics to be covered include the future of the technological society, the physics of Star Trek, the nature of space and time, extraterrestrial intelligence, robotics and artificial intelligence, biotechnology and more. Success of this course will depend upon class participation. Students will be expected to contribute to discussion of assigned readings and problems, and to give brief presentations in class on assigned films.",
+            "department": "Physics",
+            "coreqs": "",
+            "semester": ["M"]
+        },
+        "73100": {
+            "name": "Principles of Economics",
+            "prereqs": "",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "SH 214",
+                    "end": "11:50AM",
+                    "begin": "10:30AM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Davis"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "Literally, an introduction to economic principles, the goal of this course is to give students an understanding as to what constitutes good \"economic thinking\". This thought process is grounded in the construction and use of economics models. Drawing on issues in both microeconomics and macroeconomics, fundamental principles are shown to transcend particular examples and allow the field to be seen as a coherent, unified whole. (Lecture, 2 hours; Recitation, 1 hour). Course Website: http://tepper.cmu.edu/prospective-students/course-page/73100/principles-of-economics",
+            "department": "Economics",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "79341": {
+            "name": "The Cold War in Documents and Film",
+            "prereqs": "",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "PH 225B",
+                    "end": "01:20PM",
+                    "begin": "12:00PM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Kats"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course is based on use of historical documents and films to study problems that reshaped the world during and after the Cold War. We will examine how documentary and feature films depicted the most important events of the Cold War, such as the Korean War, the construction of the Berlin Wall, the Cuban missile crisis, and others. In addition to films, sources will include documents, lectures and readings.",
+            "department": "History",
+            "coreqs": "",
+            "semester": []
+        },
+        "79210": {
+            "name": "Identity, Nationhood, and State",
+            "prereqs": "",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Doha, Qatar",
+                    "room": "CMB 1031",
+                    "end": "11:20AM",
+                    "begin": "09:15AM",
+                    "days": "UTR"
+                }],
+                "instructors": ["Kaba"],
+                "sections": [],
+                "lecture": "W"
+            }],
+            "desc": "This course is ONLY offered at Carnegie Mellon in Qatar. This broad introductory course to general history through the prism of literature and politics aims at appreciating humanism and identity from the distant past on. 1. It discusses the significance of language and speech aptitude as a primordial and universal trait upon which rests the possibility of association and organization. This aptitude has made humans history conscious. 2. It explores some basic facts about the pre-19th century Western tradition of governance and the place of the individual within it, along with the expansion of these European states into the world in the aftermath of the maritime navigation and colonial conquest. An emphasis is placed on the pivotal European movements of the Renaissance and Enlightenment. The first, with its humanism in the 16th century, promoted a sense of identity associated with the language spoken in one\u00bfs area and the rise from the old medieval notion of suzerainty of the local gentry over local communities to the sovereignty of the monarchy of the area, thereby the nation state. The second, the 18th century Enlightenment, led to reforms and revolutions. These transformations, including the growth of literacy, have significantly marked Europe and subsequently the rest of the world that experienced European domination or influence. All this has resulted in the making of broad communities of European language speakers who are not of European descent.",
+            "department": "History",
+            "coreqs": "",
+            "semester": []
+        },
+        "33104": {
+            "name": "Experimental Physics",
+            "prereqs": "",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DH A331",
+                    "end": "04:20PM",
+                    "begin": "01:30PM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Anderson"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course provides first year students and sophomores with an introduction to the methods of experimental physics. Particular emphasis is placed on three aspects of experimentation: laboratory technique, including both the execution and the documentation of an experiment; data analysis, including the treatment of statistical and systematic errors and computer-aided analysis of experimental data; and written communication of experimental procedures and results. The concepts and skills for measurement and data analysis are acquired gradually through a series of experiments covering a range of topics from mechanics to nuclear and atomic physics.",
+            "department": "Physics",
+            "coreqs": "",
+            "semester": ["F", "S", "M"]
+        },
+        "82141": {
+            "name": "Elementary Spanish I",
+            "prereqs": "",
+            "units": 12.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "BH 235B",
+                    "end": "10:20AM",
+                    "begin": "09:00AM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Gulish"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "Elementary Spanish I is the first part of a two-semester course sequence for beginning students, emphasizing the development of communicative language and cultural competence. Students will work towards improving their writing, reading, listening and speaking abilities in Spanish, such that they become comfortable working with a variety of topics from Spanish-speaking cultural areas. Students will develop basic interactional and routine public communication patterns, frequently working in groups and pairs, and utilizing technologies that enhance learning opportunities and promote skill development. This course also provides extracurricular opportunities to interact with members of the Spanish-speaking community. Four hours of in-class instruction per week are required. A student with prior experience in Spanish must take the placement exam. Instructions for the placement exam are available in Baker Hall 160. Prerequisite: None",
+            "department": "Modern Languages",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "79506": {
+            "name": "Global Studies Internship",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Soluri"],
+                "sections": [],
+                "lecture": "M"
+            }],
+            "desc": "This course provides Global Studies majors with a chance to explore global connections in Pittsburgh. Majors, working in close consultation with the Global Studies director and advisor, will arrange an internship with a non-governmental organization (usually in Pittsburgh) whose mission has a global reach. This could include an organization that supports projects in other countries, works with immigrants in the Pittsburgh area, or participates in international policy making/governance. We strongly encourage students to seek out opportunities that require use of a second language. Students will be required to maintain a weekly journal; write a short critical reflection on how the internship connects to academic work; and share their experience with other Global Studies majors. Global Studies advisor and director will assist students with matching their interests to local organizations and identifying an on-site supervisor available to collaborate in the ongoing and final evaluation of the student's work. Prerequisite: Students must be Global Studies majors and obtain permission for the proposed internship from the Global Studies advisor.",
+            "department": "History",
+            "coreqs": "",
+            "semester": []
+        },
+        "88399": {
+            "name": "Undergraduate Research",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Instructor TBA"],
+                "sections": [],
+                "lecture": "P"
+            }, {
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Instructor TBA"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "Students conduct research under the supervision of a Social & Decision Sciences faculty member. Students who wish to engage in research should seek out a faculty member whose interests are appropriate to the research. Prerequisite: Students must also complete an \"Independent Study/Research for Credit\" form, available from the SDS Coordinator of Student Programs in Porter 208A. Permission of a faculty sponsor.",
+            "department": "Social & Decision Sciences",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "18432": {
+            "name": "Senior Projects",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Marculescu"],
+                "sections": [],
+                "lecture": "M"
+            }],
+            "desc": "The Department of Electrical and Computer Engineering at Carnegie Mellon considers experiential learning opportunities important educational options for its undergraduate students. One such option is conducting undergraduate research with a faculty member. Students do not need to officially register for undergraduate research unless they want it listed on their official transcripts. An ECE student who is involved in a research project and is interested in registering this undergraduate research for course credit on the official transcript may request to be enrolled in this course. To do this, the student should first complete the on-line undergraduate research form available on the ECE undergraduate student page. Once the form has been submitted and approved by the faculty member the student is conducting the research with, the ECE Undergraduate Office will add the course to the student's schedule. Typical credit is granted as one hour of research per week is equal to one unit of credit.",
+            "department": "Electrical & Computer Engineering",
+            "coreqs": "",
+            "semester": ["S"]
+        },
+        "85340": {
+            "name": "Research Methods in Social Psychology",
+            "prereqs": "(85-251 and 36-309) or (36-309 and 85-241) or (85-251 and 36-202) or (36-202 and 85-241)",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "BH 340A",
+                    "end": "11:50AM",
+                    "begin": "10:30AM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Boyd"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course is designed to provide students with the necessary knowledge to evaluate research, make transitions between theory and the operations that test the theory, and to design and carry out original research. Topics will include the nature of proof and causal inference, manipulation of indepen-dent variables, measurement of dependent variables, questionnaire design, experimental ,and quasi-experimental, design and ethical issues involved in doing research. Survey, observational and experimental techniques as applied in both field and laboratory settings will be covered. Students will be expected to criticize completed research. They are also expected to design measures and complete their own original studies. During the course of the semester students will also be expected to design and carry out an original research project as well.",
+            "department": "Psychology",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "70201": {
+            "name": "Professional and Service Projects",
+            "prereqs": "",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Cofield"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "Professional service is important in career development because it creates opportunities to use skills and knowledge, develop leadership abilities, develop professional networks, and to learn the importance of community involvement and social values in business practice. Students complete a variety of activities with these objectives over a period of up to four semesters to satisfy this course requirement.",
+            "department": "Business Administration",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "70391": {
+            "name": "Finance",
+            "prereqs": "73-100 and (36-207 or 36-217 or 36-225 or 70-207 or 36-201)",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "BH 237B",
+                    "end": "11:50AM",
+                    "begin": "10:30AM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Bisetti"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "Firms create value by making good investment decisions. Finance is the field of management science tasked with making this happen. It is a set of tools with which firms identify good investments and decide how to pay for them. Paying for them ultimately involves getting money from households. Therefore, finance also describes the investment decisions of households and the resulting allocation of the economy's resources across firms and time. This course is the introductory finance course in the undergraduate business program. The main topics covered in the course are Financial Markets, Net Present Value, The Objective of the Firm, Discounted Cash Flow, Portfolio Theory and the Cost of Capital, The Efficient Markets Hypothesis, The Capital Structure of the Firm, and Business Valuation. Time permitting, the course will also provide an introduction to option markets and derivative securities. Upon completing the course a student will be able to consider a large and complex business problem, make some assumptions, structure the firms' cash flows in a spreadsheet, calculate the value of different solutions to the problem, and make a decision. Course Website: http://bertha.tepper.cmu.edu/telmerc/70391/syllabus_70391.html",
+            "department": "Business Administration",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "60499": {
+            "name": "Studio Independent Study",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Instructor TBA"],
+                "sections": [],
+                "lecture": "M"
+            }, {
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Instructor TBA"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "A tutorial studio in which an Art student works individually on a self-generated project under the supervision of a School of Art faculty member. Prior to enrolling in Independent Study, the student must complete an \"Independent Study Proposal\" form (available in the bins on the 3rd floor of CFA) which is signed by the faculty member and the Assistant Head of the School of Art. Prerequisite: Art Junior/Senior status and by instructor permission.",
+            "department": "Art",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "82293": {
+            "name": "Introduction to Russian Culture",
+            "prereqs": "",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Kats"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This repeatable course is designed for both students who know Russian and those who do not and is taught in English; no knowledge of Russian is required. The purpose of the course is to introduce specific developments in the history of Russian culture that account for its distinctive flavor. Past topics include: Russian Fairy Tales; The Russian Avant-garde in Literature, Music and Art; and The History of the Fine Arts in Russia. Attendance at all class meetings and participation in class discussions are required, as are oral presentations and written essays and research papers. Prerequisite: None FALL 2015: Baba Yaga, Koschei the Immortal, the Firebird, Ivan the Tsarevich: Russian fairy tales brim over with monsters and magic, witches and devils, heroes and villains, princes and queens. In this course we examine a wide selection of these tales for what they can reveal about Russian culture\u00bfs ethics, aesthetics, values and habits of mind. Students discover these through four analytical approaches: structural, psychological, feminist and socio-political. Attention is paid to the ways in which fairy tales hold sway in literature and the fine arts from centuries past right through to the present day. Course requirements include primary and secondary readings, oral presentations, written essays, tests and participation in class discussions. Prerequisite: For students with advanced Russian language skills, 3 additional units can be earned for additional meetings covering reading and writing tasks performed in Russian. Permission of the instructor is required.",
+            "department": "Modern Languages",
+            "coreqs": "",
+            "semester": []
+        },
+        "6400": {
+            "name": "Senior Research Project",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Instructor TBA"],
+                "sections": [],
+                "lecture": "M"
+            }],
+            "desc": "Research projects under the direction of the Chemical Engineering faculty. The nature of the project, the number of units, and the criteria for grading are to be determined between the student and the faculty supervisor. The agreement should then be summarized in a one-page project description for review by the faculty advisor of the student. A final written report or an oral presentation of the results is required.",
+            "department": "Chemical Engineering",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "82133": {
+            "name": "Elementary Chinese Online I",
+            "prereqs": "",
+            "units": 12.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "BH 235A",
+                    "end": "07:20PM",
+                    "begin": "05:30PM",
+                    "days": "TW"
+                }],
+                "instructors": ["Wu"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course is designed for students who need a more flexible approach to language learning than that offered in a standard classroom course. It is designed to help beginners develop communicative competence in the four basic skills of listening, speaking, reading and writing the Chinese language. Basic vocabulary and sentence structures for use in essential daily-life situations, as well as cultural information, are taught through the course materials and assignments. Materials are web-based with extensive use of Internet technologies for listening, reading, and communication. This course is offered in a hybrid mode requiring one 80-minute class per week in addition to weekly 20-minute individual meetings with the instructor or a peer speaking assistant. There is a materials fee for taking this course which is paid by credit card on first log-in to the course website. Students in this class should be prepared to participate in such studies in the course of their classwork. A student with prior experience in Chinese must take the placement exam. Instructions for the placement exam are available in Baker Hall 160. Prerequisite: None",
+            "department": "Modern Languages",
+            "coreqs": "",
+            "semester": ["F"]
+        },
+        "67390": {
+            "name": "Independent Study in Information Systems",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Heimann"],
+                "sections": [],
+                "lecture": "M"
+            }, {
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Sooriamurthi"],
+                "sections": [],
+                "lecture": "N"
+            }, {
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["McKnight"],
+                "sections": [],
+                "lecture": "O"
+            }, {
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Weinberg"],
+                "sections": [],
+                "lecture": "P"
+            }, {
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Mertz"],
+                "sections": [],
+                "lecture": "Q"
+            }, {
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Weinberg"],
+                "sections": [],
+                "lecture": "R"
+            }],
+            "desc": "Independent studies are opportunities to engage in research with an IS faculty member to advance your learning in certain areas of interest. Information Systems students may enroll in independent study for 3, 6, 9, or 12 units of academic credit by obtaining an IS faculty sponsor who will oversee the academic component of the coursework, monitor progress, and assign a final grade.",
+            "department": "Dietrich College Information Systems",
+            "coreqs": "",
+            "semester": ["M"]
+        },
+        "33350": {
+            "name": "Undergraduate Research",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Ghosh"],
+                "sections": [],
+                "lecture": "M"
+            }],
+            "desc": "The student undertakes a project of interest under the supervision of a faculty member. May include research done in a research lab, extending the capabilities of a teaching lab, or a theoretical or computational physics project. The student experiences the less structured atmosphere of a research program where there is much room for independent initiative. A list of research projects is available. The student must contact the Assistant Head for the Undergraduate Affairs before registering so that student project pairings can be set. Reports on results are required at end of semester.",
+            "department": "Physics",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "51399": {
+            "name": "Junior Independent Study",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Instructor TBA"],
+                "sections": [],
+                "lecture": "M"
+            }],
+            "desc": "Guidelines for independent study in the Design office. Proposals must be approved by faculty before registration.",
+            "department": "Design",
+            "coreqs": "",
+            "semester": ["F", "S", "M"]
+        },
+        "80210": {
+            "name": "Logic and Proofs",
+            "prereqs": "",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "BH 150",
+                    "end": "04:20PM",
+                    "begin": "03:00PM",
+                    "days": "TR"
+                }],
+                "instructors": ["Nalls"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This web-based course introduces students to central issues in logic and develops their ability for constructing and refuting arguments. It addresses the question: How can one analyze the structure of rational discourse or, more specifically, the logical structure of argumentation? An answer to this question requires: (i) uncovering the logical form of statements; (ii) defining the correctness of logical steps; (iii) formulating inference rules for the logical forms; (iv) designing strategies for argumentation with the inference rules. The course takes these steps for both sentential and quantificational logic. Presentation: The material is presented on-line, though some exercises must be done with pen and paper. Additional reading of historical and philosophical character complements the systematic on-line presentation. Weekly small discussion meetings with collaborative reviews, substantive discussions and critical reflections supplement the on-line material.",
+            "department": "Philosophy",
+            "coreqs": "",
+            "semester": ["F", "S", "M"]
+        },
+        "9106": {
+            "name": "Modern Chemistry II",
+            "prereqs": "09-105 or 09-107",
+            "units": 10.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DH 2302",
+                    "end": "11:50AM",
+                    "begin": "10:30AM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Vuocolo"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course provides an overview of thermodynamics, kinetics and chemical equilibrium. Topics include the flow of energy in chemical systems; the spontaneity of chemical processes, i.e. entropy and free energy; the mechanisms and rates of chemical reactions; and the use of chemical equilibrium to reason about acid-base chemistry, solubility and electrochemistry. Applications include the energy economy, biological systems and environmental chemistry. 3 hrs. lec., 2 hrs. rec.",
+            "department": "Chemistry",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "3700": {
+            "name": "MS Thesis Research",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Subramanian"],
+                "sections": [],
+                "lecture": "M"
+            }, {
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Subramanian"],
+                "sections": [],
+                "lecture": "R"
+            }],
+            "desc": "A student enrolled in this course conducts an independent investigation on a project in a faculty advisor's lab. The project is selected from a major area of research study with the advice and approval of the faculty advisor. This course is required of students who are enrolled in the Master of Science program and wish to write and defend a thesis.",
+            "department": "Biological Sciences",
+            "coreqs": "",
+            "semester": ["F", "S", "M"]
+        },
+        "82171": {
+            "name": "Elementary Japanese I",
+            "prereqs": "",
+            "units": 12.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "PH 226B",
+                    "end": "10:20AM",
+                    "begin": "09:00AM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Tsai"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course is the first part of a two-semester course sequence (82-171, 82-172) for students with no prior experience in Japanese. It emphasizes the development of communicative language proficiency through oral practice, aural comprehension, reading, writing, and the study of cultural aspects of Japanese society. Regular homework, quizzes, tests, presentations, and class participation are mandatory (four in-class hours per week). The elementary level is also designed to help students learn to reflect and draw upon strategies used by good language learners in their second language study. A student with prior experience in Japanese must take the placement exam.",
+            "department": "Modern Languages",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "54755": {
+            "name": "Drama Practicum",
+            "prereqs": "",
+            "units": 3.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Nichols"],
+                "sections": [],
+                "lecture": "R"
+            }],
+            "desc": "This course provides 3 units of pass/fail credit for students participating in a drama related internship. The student must be registered for this course during the internship, in order to earn the credit. At the end of the term, the student's supervisor must email the academic advisor with a brief statement describing the student's activities, and an evaluation of the student's performance. Students are required to submit a statement, reflecting on insights gained from the internship experience. Upon receipt of both statements, the academic advisor will assign a grade of either P or N, depending on the outcome.",
+            "department": "Drama",
+            "coreqs": "",
+            "semester": ["M"]
+        },
+        "82143": {
+            "name": "Elementary Spanish I Online",
+            "prereqs": "",
+            "units": 12.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Tardio"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "Elementary Spanish Online I is for beginning students, emphasizing the development of communicative language and cultural competence. Students will work towards improving their writing, reading, listening and speaking abilities in Spanish, such that they become comfortable working with a variety of topics from Spanish-speaking cultural areas. Students will develop basic interactional and routine public communication patterns. This course is designed for students with no previous knowledge of Spanish and who need a more flexible approach to language learning than that offered in a standard classroom course. All materials are Web-based, with extensive use of Internet technologies for research, writing, and communication. During regular semesters, this course is offered in a hybrid mode requiring one 80-minute class per week in addition to weekly 20-minute individual meetings with the instructor or a peer speaking assistant. There is a materials fee for taking this course which is paid by credit card on first log-in to the course website. A student with prior experience in Spanish must take the placement exam. Instructions for the placement exam are available in Baker Hall 160. Prerequisite: None",
+            "department": "Modern Languages",
+            "coreqs": "",
+            "semester": ["F"]
+        },
+        "18331": {
+            "name": "Junior Projects",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Marculescu"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "The Department of Electrical and Computer Engineering at Carnegie Mellon considers experiential learning opportunities important educational options for its undergraduate students. One such option is conducting undergraduate research with a faculty member. Students do not need to officially register for undergraduate research unless they want it listed on their official transcripts. An ECE student who is involved in a research project and is interested in registering this undergraduate research for course credit on the official transcript may request to be enrolled in this course. To do this, the student should first complete the on-line undergraduate research form available on the ECE undergraduate student page. Once the form has been submitted and approved by the faculty member the student is conducting the research with, the ECE Undergraduate Office will add the course to the student's schedule. Typical credit is granted as one hour of research per week is equal to one unit of credit.",
+            "department": "Electrical & Computer Engineering",
+            "coreqs": "",
+            "semester": ["F"]
+        },
+        "15090": {
+            "name": "Computer Science Practicum",
+            "prereqs": "",
+            "units": 3.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Cortina"],
+                "sections": [],
+                "lecture": "M"
+            }],
+            "desc": "This course is for international students who are interested in working for Curricular Practical Training (CPT). Such students interested in CPT must first be authorized by the Office of International Education before being able to enroll in the Practicum course. More information on CPT is available on OIE's Foreign Student Employment page and at the CS Undergraduate Office.",
+            "department": "Computer Science",
+            "coreqs": "",
+            "semester": ["F", "S", "M"]
+        },
+        "36225": {
+            "name": "Introduction to Probability Theory",
+            "prereqs": "",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "BH 235B",
+                    "end": "11:50AM",
+                    "begin": "10:30AM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Dabbs"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course is the first half of a year long course which provides an introduction to probability and mathematical statistics for students in economics, mathematics and statistics. The use of probability theory is illustrated with examples drawn from engineering, the sciences, and management. Topics include elementary probability theory, conditional probability and independence, random variables, distribution functions, joint and conditional distributions, law of large numbers, and the central limit theorem. A grade of C or better is required in order to advance to 36-226 and 36-410. Not open to students who have received credit for 36-217 or 36-625. Course Website: http://www.stat.cmu.edu/academics/courselist",
+            "department": "Statistics",
+            "coreqs": "21-268 and 21-259 and 21-256",
+            "semester": ["F"]
+        },
+        "15075": {
+            "name": "Computer Science Co-Op",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Cortina"],
+                "sections": [],
+                "lecture": "M"
+            }],
+            "desc": "This course is meant for CS undergraduate students with a full-time internship that encompasses a summer and a contiguous semester, either Spring-Summer or Summer-Fall who wish to have this recorded on their academic transcript. Units posted for this course do not count toward any requirement for the CS undergraduate degree including free elective units. This course is not available to international students; consult with the Office for International Education for more information.",
+            "department": "Computer Science",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "76270": {
+            "name": "Writing for the Professions",
+            "prereqs": "76-101",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "BH 235A",
+                    "end": "01:20PM",
+                    "begin": "12:00PM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Gordon"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "Writing in the Professions is a writing course specifically designed for juniors and seniors in all majors other than English. The course is appropriate for upper-level students in all CMU colleges, has no writing prerequisites, and assumes that you may not have had much college-level writing instruction past your freshman year. The basic idea of the course is to give you experience in developing the writing skills you will be expected to have as you make the transition from student to professional. The course will cover resume writing, proposal writing, writing instructions, the difference between writing for general and specific audiences, and analysis of visual aids in various texts. The course requires that students work both independently and in groups. Course Website: http://www.cmu.edu/hss/english/courses/index.html",
+            "department": "English",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "18213": {
+            "name": "Introduction to Computer Systems",
+            "prereqs": "15-122",
+            "units": 12.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DH A302",
+                    "end": "01:20PM",
+                    "begin": "12:00PM",
+                    "days": "TWR"
+                }, {
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "GHC 4211",
+                    "end": "01:20PM",
+                    "begin": "12:00PM",
+                    "days": "F"
+                }],
+                "instructors": ["Filardo"],
+                "sections": [],
+                "lecture": "M"
+            }, {
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Filardo"],
+                "sections": [],
+                "lecture": "N"
+            }],
+            "desc": "This course provides a programmer's view of how computer systems execute programs, store information, and communicate. It enables students to become more effective programmers, especially in dealing with issues of performance, portability and robustness. It also serves as a foundation for courses on compilers, networks, operating systems, and computer architecture, where a deeper understanding of systems-level issues is required. Topics covered include: machine-level code and its generation by optimizing compilers, performance evaluation and optimization, computer arithmetic, memory organization and management, networking technology and protocols, and supporting concurrent computation. NOTE: students must achieve a C or better in order to use this course to satisfy the pre-requisite for any subsequent Computer Science course. Prerequisites: 15-123 (Grade of C or higher is required in the prerequisite)",
+            "department": "Electrical & Computer Engineering",
+            "coreqs": "",
+            "semester": ["S", "M"]
+        },
+        "82104": {
+            "name": "Elementary French II Online",
+            "prereqs": "82-101 or 82-103",
+            "units": 12.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Youngs"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course is designed for students who need a more flexible approach to language learning than that offered in a standard classroom course. Students will learn more useful and complex expressions and sentence structures necessary for use in everyday life. Students will continue building their skills in listening, speaking, reading, and writing for everyday communication. Additionally, course materials and assignments are designed to improve students' understanding of French and francophone cultures and societies. Materials are web-based with extensive use of Internet technologies for listening, reading, and communication. During regular semesters, this course is offered in a hybrid mode requiring one 80-minute class per week in addition to weekly 20-minute individual meetings with the instructor or a peer speaking assistant. There is a materials fee for taking this course which is paid by credit card on first log-in to the course website. A student with prior experience in French must take the placement exam. Instructions for the placement exam are available in Baker Hall 160. Prerequisite: 82-101 or 82-103 or placement",
+            "department": "Modern Languages",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "42400": {
+            "name": "Senior BME Research Project",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Zapanta"],
+                "sections": [],
+                "lecture": "M"
+            }],
+            "desc": "Research projects for seniors under the direction of a regular or adjunct BME faculty member. Arrangements may also be made via the Associate Head of BME for off-campus projects provided that a regular or adjunct BME faculty member agrees to serve as a co-advisor. The nature of the project, the number of units, and the criteria for grading are to be determined between the student and the research advisor. The agreement should be summarized in a two-page project description with sign-off by the research advisor and a copy submitted for review and filing with the BME Department. A final written report or oral presentation of the results is required. Units may vary from 9 to 12 according to the expected time commitment, with one unit corresponding to 1 hour of research per week. One (but not more than one) semester of research, if registered for at least 9 units, may be counted as a restricted elective course toward the BME additional major.",
+            "department": "Biomedical Engineering",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "21122": {
+            "name": "Integration and Approximation",
+            "prereqs": "21-112 or 21-120",
+            "units": 10.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "WEH 8427",
+                    "end": "10:20AM",
+                    "begin": "09:00AM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Gutter"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "Integration by trigonometric substitution and partial fractions; arclength; improper integrals; Simpson's and Trapezoidal Rules for numerical integration; separable differential equations, Newton's method, Euler's method, Taylor's Theorem including a discussion of the remainder, sequences, series, power series. Parametric curves, polar coordinates, vectors, dot product. 3 hrs lec., 2 hrs. rec.",
+            "department": "Mathematical Sciences",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "57173": {
+            "name": "Survey of Western Music History",
+            "prereqs": "",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "CFA 102",
+                    "end": "10:20AM",
+                    "begin": "08:30AM",
+                    "days": "MTWR"
+                }],
+                "instructors": ["Johnston"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course surveys the development and contexts of European art music and its global adaptation. While keeping in view the chronology from Gregorian chant to the present, this survey emphasizes key personalities and issues, particularly issues relating to period style and interpretive decisions in performance.",
+            "department": "Music",
+            "coreqs": "57-188",
+            "semester": ["F"]
+        },
+        "15221": {
+            "name": "Technical Communication for Computer Scientists",
+            "prereqs": "76-101",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "GHC 4215",
+                    "end": "01:20PM",
+                    "begin": "12:00PM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Keating"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "The course is designed for sophomore computer science majors to improve their abilities in practical, professional communications (both written and oral). It aims to help students compose clear, concise technical writings and oral presentations for multi-level audiences. Assignments include technical definitions, descriptions, instructions, process explanations, abstracts, memos, and research reports. Assignments may incorporate recent computer science research at Carnegie Mellon, projects in related technical courses, and professional case studies. Sophomores will likely find the course more useful if they have either had an internship or faculty-supervised research, including SURG projects prior to enrollment.",
+            "department": "Computer Science",
+            "coreqs": "",
+            "semester": ["F", "S", "M"]
+        },
+        "3445": {
+            "name": "Undergraduate Research",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Braun"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "Students may investigate research problems under the supervision of members of the faculty. Permission of a faculty advisor required.",
+            "department": "Biological Sciences",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "60399": {
+            "name": "Art History/Theory Independent Study",
+            "prereqs": "",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Instructor TBA"],
+                "sections": [],
+                "lecture": "M"
+            }, {
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["King"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "A tutorial course in which an Art student works individually on a self-generated project under the supervision of a School of Art faculty member. Prior to enrolling in Independent Study, the student must complete an \"Independent Study Proposal\" form (available in the bins on the 3rd floor of CFA) which is signed by the faculty member and the Assistant Head of the School of Art. Prerequisite: Art junior or senior status, or by instructor permission.",
+            "department": "Art",
+            "coreqs": "",
+            "semester": ["F", "S", "M"]
+        },
+        "85482": {
+            "name": "Internship in Psychology",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Instructor TBA"],
+                "sections": [],
+                "lecture": "M"
+            }],
+            "desc": "The Internship in Psychology is designed to enable students to gain experience in professional settings related to their studies in Psychology and earn credit for the intellectual work involved. It is the students responsibility to locate an internship site and on-site supervisor, as well as to identify a CMU faculty sponsor. The student registers for the internship by submitting a completed internship form to Theresa Kurutz in Baker Hall 343.",
+            "department": "Psychology",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "82232": {
+            "name": "Intermediate Chinese II",
+            "prereqs": "82-231",
+            "units": 12.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "SH 208",
+                    "end": "01:20PM",
+                    "begin": "12:00PM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Meng"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This is the second semester of Intermediate Chinese. Its primary goals are to expand students' vocabulary and knowledge of grammar of the Chinese language by learning more new words, expressions, and sentence patterns needed for everyday communication and by consolidating their knowledge through oral and written practice in and out of class. In this course, students will participate in classroom discussions in Mandarin Chinese on various topics concerning everyday life and write short paragraphs on those topics using Chinese characters. Different aspects of Chinese culture will also be introduced during the whole semester through multimedia, lectures, and discussions. Regular homework, quizzes, tests, presentations, and class participation are mandatory (four in-class hours per week). A student with prior experience in Chinese must take the placement exam. Instructions for taking the placement exam can be found at Baker Hall 160. Prerequisite: 82-231 or placement",
+            "department": "Modern Languages",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "88505": {
+            "name": "Undergraduate Internship",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Instructor TBA"],
+                "sections": [],
+                "lecture": "M"
+            }, {
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Instructor TBA"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "An internship is an approved and monitored work experience than can be related to an academic field of study through active reflection and specific learning goals. Students must work at least 10 hours per week for the semester at the internship. Additionally, students will also keep in regular contact with a faculty member in Social and Decision Sciences, who will assign and evaluate academic work. Internships are available for 3, 6, or 9 units, depending on the type and amount of academic work produced. Students are responsible for finding their own internships and faculty sponsors, although assistance is available in the department.",
+            "department": "Social & Decision Sciences",
+            "coreqs": "",
+            "semester": ["F", "S", "M"]
+        },
+        "24392": {
+            "name": "Mechancial Engineering Project",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Hertz"],
+                "sections": [],
+                "lecture": "M"
+            }, {
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Hertz"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "Practice in the organization, planning, and execution of appropriate engineering projects. These investigations may be assigned on an individual or a team basis and in most cases will involve experimental work. 9 hrs. lab. Course Website: http://www.cmu.edu/me/undergraduate/index.html",
+            "department": "Mechanical Engineering",
+            "coreqs": "",
+            "semester": ["F", "S", "M"]
+        },
+        "21484": {
+            "name": "Graph Theory",
+            "prereqs": "(21-228 or 15-251) and (21-241 or 21-242)",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "WEH 5310",
+                    "end": "10:20AM",
+                    "begin": "09:00AM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Schaffer"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "Graph theory uses basic concepts to approach a diversity of problems and nontrivial applications in operations research, computer science and other disciplines. It is one of the very few mathematical areas where one is always close to interesting unsolved problems. Topics include graphs and subgraphs, trees, connectivity, Euler tours and Hamilton cycles, matchings, graph colorings, planar graphs and Euler's Formula, directed graphs, network flows, counting arguments, and graph algorithms. 3 hrs. lec.",
+            "department": "Mathematical Sciences",
+            "coreqs": "",
+            "semester": ["S"]
+        },
+        "21260": {
+            "name": "Differential Equations",
+            "prereqs": "21-122",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "WEH 5302",
+                    "end": "11:50AM",
+                    "begin": "10:30AM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Rodriguez Vanegas"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "Ordinary differential equations: first and second order equations, applications, Laplace transforms; partial differential equations: partial derivatives, separation of variables, Fourier series; systems of ordinary differential equations; applications. 21-259 or 21-268 or 21-269 are recommended. 3 hrs. lec., 1 hr. rec.",
+            "department": "Mathematical Sciences",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "18499": {
+            "name": "Internship",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Marculescu"],
+                "sections": [],
+                "lecture": "M"
+            }],
+            "desc": "The Department of Electrical and Computer Engineering at Carnegie Mellon considers experiential learning opportunities important educational options for its undergraduate students. One such option is an internship, normally completed during the summer. Students do not need to officially register for an internship unless they want it listed on their official transcripts. ECE students interested in registering their internship for course credit on their transcript may request to be enrolled in this course. The ECE Undergraduate Office will add the course to the student's schedule, and the student will be assessed tuition for 3 units. This process should be used by international students interested in Curricular Practical Training (CPT) or by any other engineering undergraduate wishing to have their internship experience reflected on their official University transcript. International students should also be authorized by the Office of International Education (OIE). More information regarding CPT is available on OIE's website.",
+            "department": "Electrical & Computer Engineering",
+            "coreqs": "",
+            "semester": ["F", "S", "M"]
+        },
+        "15213": {
+            "name": "Introduction to Computer Systems",
+            "prereqs": "15-122",
+            "units": 12.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DH A302",
+                    "end": "01:20PM",
+                    "begin": "12:00PM",
+                    "days": "TWR"
+                }, {
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "GHC 4211",
+                    "end": "01:20PM",
+                    "begin": "12:00PM",
+                    "days": "F"
+                }],
+                "instructors": ["Filardo"],
+                "sections": [],
+                "lecture": "M"
+            }, {
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Filardo", "Kesden"],
+                "sections": [],
+                "lecture": "N"
+            }, {
+                "meetings": [{
+                    "location": "Doha, Qatar",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Kesden", "Filardo"],
+                "sections": [],
+                "lecture": "Z"
+            }],
+            "desc": "15-213/18-213 This course provides a programmer's view of how computer systems execute programs, store information, and communicate. It enables students to become more effective programmers, especially in dealing with issues of performance, portability and robustness. It also serves as a foundation for courses on compilers, networks, operating systems, and computer architecture, where a deeper understanding of systems-level issues is required. Topics covered include: machine-level code and its generation by optimizing compilers, performance evaluation and optimization, computer arithmetic, memory organization and management, networking technology and protocols, and supporting concurrent computation. NOTE FOR GRADUATE STUDENTS: This course is not open to graduate students beginning Spring 2015. Graduate students must register for 15-513 instead.",
+            "department": "Computer Science",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "67475": {
+            "name": "Innovation in Information Systems",
+            "prereqs": "67-373",
+            "units": 12.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Doha, Qatar",
+                    "room": "CMB 2222",
+                    "end": "11:20AM",
+                    "begin": "10:00AM",
+                    "days": "UMTWR"
+                }],
+                "instructors": ["Liginlal"],
+                "sections": [],
+                "lecture": "W"
+            }],
+            "desc": "In this capstone team-based course, IS seniors design and implement an information systems solution to meet a real-world need or opportunity. Innovation, entrepreneurship, planning, project management, and risk taking will all be emphasized. Students will be challenged to produce \"proof of concept\" systems or prototypes that are fully documented, tested, and ready to present for external evaluation. This course is a required professional core course and is open only to seniors in the IS major who have completed 67-373.",
+            "department": "Dietrich College Information Systems",
+            "coreqs": "",
+            "semester": ["F"]
+        },
+        "82273": {
+            "name": "Introduction to Japanese Language and Culture",
+            "prereqs": "",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "PH 226C",
+                    "end": "11:50AM",
+                    "begin": "10:30AM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Hatakeyama"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course is an introduction to modern Japanese. Given the close link between the Japanese language and culture, the examination of the distinctive characteristics of the Japanese language and its sociocultural context provides important insights into contemporary Japan. This course is taught in English and is intended both for individuals who want to gain a better understanding of modern Japanese society, as well as for students of the Japanese language. Prerequisite: None",
+            "department": "Modern Languages",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "3210": {
+            "name": "Independent Study",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Braun"],
+                "sections": [],
+                "lecture": "R"
+            }],
+            "desc": "Students will read papers from the original literature under the direction of a faculty member. Students will be required to demonstrate mastery of the readings by discussions with the sponsoring faculty member, oral presentations, or writing of one or more papers summarizing and extending the information in the readings. If appropriate, students may write a program(s) to satisfy this last requirement. A student may take this course only once. This is a mini format course. Special permission required.",
+            "department": "Biological Sciences",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "66502": {
+            "name": "H&SS Senior Honors Thesis II",
+            "prereqs": "66-501",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Doha, Qatar",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Liginlal"],
+                "sections": [],
+                "lecture": "W"
+            }],
+            "desc": "This sequence is open only to those seniors who have been admitted to the H&SS Senior Honors Program. This second semester course is the culmination of an original, year-long independent research project. Research topics are selected by faculty and students. Course Website: http://www.cmu.edu/dietrich/undergraduate/programs/shp/index.html",
+            "department": "Dietrich College Interdisciplinary",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "24391": {
+            "name": "Mechanical Engineering Project",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Hertz"],
+                "sections": [],
+                "lecture": "M"
+            }, {
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Hertz"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "Practice in the organization, planning, and execution of appropriate engineering projects. These investigations may be assigned on an individual or a team basis and in most cases will involve experimental work. 9 hrs. lab. Course Website: http://www.cmu.edu/me/undergraduate/index.html",
+            "department": "Mechanical Engineering",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "82399": {
+            "name": "Special Topics: Russian in Context",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Kats"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course is designed for students who have completed four semesters of Russian at Carnegie Mellon or for those who have equivalent Russian skills as demonstrated via placement exam. The course focuses on further development of the linguistic and stylistic practices of advanced students based on cultural analysis of Russian literature. Focus is on rapid vocabulary expansion as well as correction of high frequency syntax errors that persist beyond the intermediate level. Written compositions and translations, assigned for homework, are required for the development of grammatical accuracy and stylistic appropriateness. All class discussions are conducted in Russian. A student with prior experience in Russian must take the placement exam. Instructions for the placement exam are available in Baker Hall 160. Prerequisite: 82-292 or placement",
+            "department": "Modern Languages",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "42300": {
+            "name": "Junior BME Research Project",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Zapanta"],
+                "sections": [],
+                "lecture": "M"
+            }],
+            "desc": "Research projects for juniors under the direction of a regular or adjunct BME faculty member. Arrangements may also be made via the Associate Head of BME for off-campus projects provided that a regular or adjunct BME faculty member agrees to serve as a co-advisor. The nature of the project, the number of units, and the criteria for grading are to be determined between the student and the research advisor. The agreement should be summarized in a two-page project description with sign-off by the research advisor and a copy submitted for review and filing with the BME Department. A final written report or oral presentation of the results is required. Units may vary from 9 to 12 according to the expected time commitment, with one unit corresponding to 1 hour of research per week. One (but not more than one) semester of research, if registered for at least 9 units, may be counted as a restricted elective course toward the BME additional major.",
+            "department": "Biomedical Engineering",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "9217": {
+            "name": "Organic Chemistry I",
+            "prereqs": "09-105 or 09-107",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DH 2302",
+                    "end": "10:20AM",
+                    "begin": "09:00AM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Silva"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course presents an overview of structure and bonding as it pertains to organic molecules. Selected topics include: introduction to functional group chemistry, stereochemistry, conformational analysis, reaction mechanisms and use of retrosynthetic analysis in the development of multistep syntheses. Methods for structure determination of organic compounds by modern spectroscopic techniques are introduced. 3 hrs. lec., 1 hr. rec.",
+            "department": "Chemistry",
+            "coreqs": "",
+            "semester": ["F"]
+        },
+        "21241": {
+            "name": "Matrices and Linear Transformations",
+            "prereqs": "",
+            "units": 10.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "HH B131",
+                    "end": "11:50AM",
+                    "begin": "10:30AM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Gheorghiciuc"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "A first course in linear algebra intended for scientists, engineers, mathematicians and computer scientists. Students will be required to write some straightforward proofs. Topics to be covered: complex numbers, real and complex vectors and matrices, rowspace and columnspace of a matrix, rank and nullity, solving linear systems by row reduction of a matrix, inverse matrices and determinants, change of basis, linear transformations, inner product of vectors, orthonormal bases and the Gram-Schmidt process, eigenvectors and eigenvalues, diagonalization of a matrix, symmetric and orthogonal matrices. 21-127 is strongly recommended. 3 hrs. lec., 1 hr. rec",
+            "department": "Mathematical Sciences",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "33112": {
+            "name": "Physics II for Science Students",
+            "prereqs": "33-111 and 21-120",
+            "units": 12.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Doha, Qatar",
+                    "room": "CMB 1030",
+                    "end": "11:05AM",
+                    "begin": "09:45AM",
+                    "days": "UMTWR"
+                }],
+                "instructors": ["Vogel"],
+                "sections": [],
+                "lecture": "W"
+            }],
+            "desc": "This is the second semester course that follows 33-111. Electricity and magnetism is developed, including the following topics: Coulomb's law, polarization, electric field, electric potential, DC circuits, magnetic field and force, magnetic induction, and the origins of electromagnetic waves.",
+            "department": "Physics",
+            "coreqs": "21-122",
+            "semester": ["F", "S"]
+        },
+        "36220": {
+            "name": "Engineering Statistics and Quality Control",
+            "prereqs": "21-112 or 21-121 or 21-120",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "BH 255A",
+                    "end": "11:50AM",
+                    "begin": "10:30AM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Hyun"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This is a course in introductory statistics for engineers with emphasis on modern product improvement techniques. Besides exploratory data analysis, basic probability, distribution theory and statistical inference, special topics include experimental design, regression, control charts and acceptance sampling. Not open to students who have received credit for 36-201, 36-207/70-207, 36-226, 36-626, or 36-247, except when AP credit is awarded for 36-201. Course Website: http://www.stat.cmu.edu/academics/courselist",
+            "department": "Statistics",
+            "coreqs": "",
+            "semester": ["F", "S", "M"]
+        },
+        "21599": {
+            "name": "Undergraduate Reading and Research",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Instructor TBA"],
+                "sections": [],
+                "lecture": "M"
+            }, {
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Instructor TBA"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "Individual reading courses or projects in mathematics and its applications. Prerequisites and units to be negotiated with individual instructors.",
+            "department": "Mathematical Sciences",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "82115": {
+            "name": "Beginning Arabic for Oral Communication",
+            "prereqs": "",
+            "units": 6.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "BH 154A",
+                    "end": "11:50AM",
+                    "begin": "10:30AM",
+                    "days": "MWF"
+                }],
+                "instructors": ["Abraham"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "Beginning Arabic for Oral Communication is designed for students who have either taken Arabic for Global Exchange or desire to learn how to orally communicate in Arabic. This course does not teach how to read or write Arabic. It offers students the opportunity to engage in conversation that expands on the linguistic topics offered in Arabic for Global Exchange, using a spoken Arabic that would be widely understood anywhere in the Arab World. The conversation topics include greetings, explaining one's background, formal and informal meetings, eating out and ordering food, shopping and bargaining, using transportation, expressing feelings and opinions, describing things, people, and hobbies, and in addition, students will learn common expressions and their uses. Prerequisite: None",
+            "department": "Modern Languages",
+            "coreqs": "",
+            "semester": []
+        },
+        "82131": {
+            "name": "Elementary Chinese I",
+            "prereqs": "",
+            "units": 12.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "PH 126A",
+                    "end": "11:50AM",
+                    "begin": "10:30AM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Li"],
+                "sections": [],
+                "lecture": "S"
+            }, {
+                "meetings": [{
+                    "location": "Doha, Qatar",
+                    "room": "CMB 1031",
+                    "end": "12:50PM",
+                    "begin": "11:30AM",
+                    "days": "UMTWR"
+                }],
+                "instructors": ["Yao"],
+                "sections": [],
+                "lecture": "W"
+            }],
+            "desc": "This course is for students with no prior experience in Chinese. Using a proficiency-oriented approach, students will develop contextually appropriate interpersonal communication skills in both written and spoken Chinese, develop reading and listening skills through various media, understand fundamental grammar, acquire vocabulary, and gain a basic understanding of Chinese cultures through class and extracurricular activities. Regular homework, quizzes, tests, and participation in class are mandatory (four in-class hours per week). Students will learn the phonetic transcriptions of Chinese (Pinyin) for speaking and listening as well as Chinese characters for reading and writing. The elementary level is also designed to help students learn to reflect and draw upon strategies used by good language learners in their second language study. A student with prior experience in Chinese must take the placement exam. Instructions for taking the placement exam are available in Baker Hall 160. Prerequisite: None",
+            "department": "Modern Languages",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "15591": {
+            "name": "Independent Study in Computer Science",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Cortina"],
+                "sections": [],
+                "lecture": "M"
+            }, {
+                "meetings": [{
+                    "location": "Doha, Qatar",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Cervesato"],
+                "sections": [],
+                "lecture": "W"
+            }],
+            "desc": "To be determined",
+            "department": "Computer Science",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "24491": {
+            "name": "Department Research Honors",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Hertz"],
+                "sections": [],
+                "lecture": "M"
+            }, {
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Hertz"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course is designed to give students increased exposure to \"open-ended\" problems and research type projects. It involves doing a project on a research or design topic and writing a thesis describing that project. The project would be conducted under the supervision of a mechanical engineering faculty member (the advisor), and must be approved by the advisor before inception. This course can be taken at any time after the Junior year and before graduation which includes the summer after the Junior year. Completion of 18 units of this course with a grade of B or better is a partial fulfillment of the requirements for Departmental Research Honors. Course Website: http://www.cmu.edu/me/undergraduate/index.html",
+            "department": "Mechanical Engineering",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "76301": {
+            "name": "Internship",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Wynn"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course is designed to help you explore possible writing-related careers as you gain workplace experience and earn academic credit. You'll work on- or off- campus as an entry-level professional for 8-10 hours per week in a field of interest to you. You might, for example, intern with a local newspaper or magazine or radio or TV station, work for a publisher or political campaign, or do research and promotions for a non-profit agency associated with a cause you feel strongly about. Other possibilities include local hospitals, museums, theatre and other arts groups, software documentation firms and other groups needing technical writers and communications specialists, PR and ad agencies, law-related sites, and just about any place you can think of that requires writing and communication skills. Most of your class time for the course will be completed through work at your internship site a minimum of 120 hours (8-10 per week) over the semester for 9 units of credit. As the academic component of the course, you'll keep a reflective journal and meet periodically with the internship coordinator to discuss your internship and related professional issues. You will be responsible for finding your own internship, but it is recommended that you set up a meeting with the instructor to talk about your interests and what opportunities are open to you. You should do this before registration week.",
+            "department": "English",
+            "coreqs": "",
+            "semester": ["F", "S", "M"]
+        },
+        "67373": {
+            "name": "Software Development Project",
+            "prereqs": "67-272 and 67-371",
+            "units": 12.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Doha, Qatar",
+                    "room": "TBA",
+                    "end": "10:00AM",
+                    "begin": "09:30AM",
+                    "days": "UMTWR"
+                }],
+                "instructors": ["Liginlal"],
+                "sections": [],
+                "lecture": "W"
+            }],
+            "desc": "In this course, students design and implement a usable information system for a client. The client may be affiliated with the university, government, business, or non-profit agency. Students will be assigned to teams to work on these projects, and will produce operational, fully documented and tested, computer-based information systems. The projects will be supervised by CMU faculty and, when possible, by project clients.",
+            "department": "Dietrich College Information Systems",
+            "coreqs": "",
+            "semester": ["S"]
+        },
+        "9435": {
+            "name": "Independent Study Chemistry",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Stump"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "The course allows students to earn academic credit for concentrated study in a topic area developed in conjunction with and monitored by a faculty member in the Department of Chemistry. These topics are distinct from projects that would rise to the level of undergraduate research either because they are in unrelated areas distinct from the faculty member's research interests or may constitute the investigation and compilation of existing information from a variety of resources and may not be expected to result in the generation of new information as is a reasonable expected outcome in undergraduate research (likely is not publishable).",
+            "department": "Chemistry",
+            "coreqs": "",
+            "semester": ["F", "S", "M"]
+        },
+        "33100": {
+            "name": "Basic Experimental Physics",
+            "prereqs": "",
+            "units": 6.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DH A331",
+                    "end": "04:20PM",
+                    "begin": "01:30PM",
+                    "days": "MTW"
+                }],
+                "instructors": ["Anderson"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course provides students with a basic introduction to experimental physics. The content of the course and the particular experiments to be carried out are chosen to be especially useful for students who intend to work in the health sciences. Specific topics will range from mechanics to nuclear and atomic physics. This course is specifically geared toward pre-health students.",
+            "department": "Physics",
+            "coreqs": "",
+            "semester": ["F", "S", "M"]
+        },
+        "3900": {
+            "name": "Doctoral Thesis Research",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Subramanian"],
+                "sections": [],
+                "lecture": "M"
+            }, {
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Subramanian"],
+                "sections": [],
+                "lecture": "R"
+            }],
+            "desc": "Doctoral Thesis Research consists of an independent investigation on a project selected from a major area of research study with the advice and approval of the faculty advisor.",
+            "department": "Biological Sciences",
+            "coreqs": "",
+            "semester": ["F", "S", "M"]
+        },
+        "82292": {
+            "name": "Intermediate Russian II",
+            "prereqs": "82-291",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Kats"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course is designed for students who have taken three semesters of Russian at Carnegie Mellon or the equivalent, and is offered in the spring semester only. The course furthers the study of Russian language and culture through vocabulary expansion and the acquisition of complex grammatical structures and stylistic variations, literary and cultural readings and analysis, and intensive practice in written and spoken Russian in context. Attention is directed toward the dynamic interaction of language and culture in order to foster cross-cultural awareness. Attendance is required at three-hourly class meetings per week, as is weekly consultation and conversation practice with a peer language assistant. One to two hours per day outside of these meetings must be devoted to study and homework assignments. A student with prior experience in Russian must take the placement exam. Instructions for the placement exam are available in Baker Hall 160. Prerequisite: 82-291 or placement",
+            "department": "Modern Languages",
+            "coreqs": "",
+            "semester": ["S"]
+        },
+        "80201": {
+            "name": "Epistemology",
+            "prereqs": "",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DH 4303",
+                    "end": "04:20PM",
+                    "begin": "03:00PM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Yang"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "Epistemology, one of the cornerstones of philosophy since ancient times, concerns the relationships between belief, truth, and knowledge. This course will explore fundamental issues in epistemology, such as the analysis of the concept of knowledge, epistemic justification and scientific method, a priori knowledge, theories of truth, skepticism, reliabilism, and coherentism. Both classic texts and contemporary journal articles will be discussed. There are no prerequisites, but students with some philosophical sophistication and/or formal ability will be more comfortable with the material.",
+            "department": "Philosophy",
+            "coreqs": "",
+            "semester": []
+        },
+        "85505": {
+            "name": "Readings In Psychology",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Instructor TBA"],
+                "sections": [],
+                "lecture": "M"
+            }],
+            "desc": "As the name implies, the emphasis in the Reading course is on reading articles and books in some specified area. The students work in the course must lead to the production of a written paper which will be read by the instructor directing the readings. Often the reading is related to a research project which the student may wish to conduct. Readings courses have also been used to give students an opportunity to receive instruction in areas which are not included elsewhere in our course listing. The course may be taken for any number of units up to 9, depending upon the amount of work to be done.",
+            "department": "Psychology",
+            "coreqs": "",
+            "semester": ["F", "S", "M"]
+        },
+        "80135": {
+            "name": "Introduction to Political Philosophy",
+            "prereqs": "",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DH 4303",
+                    "end": "01:20PM",
+                    "begin": "12:00PM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Malinsky"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "What obligation do we have, as citizens, to our government or community? What obligation does our government have to us? Philosophical debates arise in public life all the time. We expect that the government and others around us respect certain rights we have, we acknowledge some communal obligations when pay our taxes or establish welfare programs, and we participate in democratic processes. But what are we talking about, when we speak of \"rights\"? Or \"justice\"? Why do we assume that democracy is good? The ideas we invoke along the way \u2014 justice, equality, rights, democracy, progress \u2014 these are the subjects of political philosophy. In this seminar we will interrogate some of these ideas by examining traditions in Western political thought and the challenges to some of these traditions from more contemporary authors. We will begin by reading some classical texts in the social contract tradition, and dissents from anarchist, communist, and feminist thinkers. We will think about whether individuals do in fact or should have \"rights.\" We will read philosophical reflections on political revolutions and political change. We will investigate justifications for democratic government. Finally, we will turn out attention to some of the most pressing challenges of our age: multiculturalism, identity politics, and justice as it relates to race and gender.",
+            "department": "Philosophy",
+            "coreqs": "",
+            "semester": []
+        },
+        "27555": {
+            "name": "Materials Project I",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Rohrer"],
+                "sections": [],
+                "lecture": "M"
+            }],
+            "desc": "This course is designed to give experience in individualized research under the guidance of a faculty member. The topic is selected by mutual agreement, and will give the student a chance to study the literature, design experiments, interpret the results and present the conclusions orally and in writing.",
+            "department": "Materials Science & Engineering",
+            "coreqs": "",
+            "semester": ["F"]
+        },
+        "82234": {
+            "name": "Topics in Chinese History",
+            "prereqs": "",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "BH 235B",
+                    "end": "08:20PM",
+                    "begin": "06:00PM",
+                    "days": "MTR"
+                }],
+                "instructors": ["Sun"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "Courses offered under this repeatable title will offer focused surveys of China's history, from the history of the imperial state to the reform period of the last forty years. Through reading original sources in translation and historical scholarship, and engaging in critical discussion, students will gain an understanding of Chinese history and appreciate its meaning for contemporary China. This course and all source materials will be in English. No knowledge of Chinese is required. Past titles have included China in the Age of Reform: 1978-Present, and China and the West. Prerequisite: None",
+            "department": "Modern Languages",
+            "coreqs": "",
+            "semester": []
+        },
+        "82291": {
+            "name": "Intermediate Russian I",
+            "prereqs": "82-192",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Kats"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course is designed for students who have taken two semesters of Russian at Carnegie Mellon or the equivalent. It is offered in the fall only. This course furthers communicative proficiency through intensive practice in written and spoken Russian. Complex grammatical structures and stylistic variations are mastered and extensive vocabulary is acquired. Through reading materials, fictional and non-fictional, acquaintance is made with the basic components of Russian cultural literacy as well as the distinctive cultural aspects of daily Russian life. Attention is directed toward the dynamic interaction of language and culture in order to foster cross-cultural awareness. Attendance is required at three-hourly class meetings per week, as is weekly consultation and conversation practice with a peer language assistant. In case of schedule conflict, please contact Professor Castellano at cc62@andrew.cmu.edu. A student with prior experience in Russian must take the placement exam. Instructions for the placement exam are available in Baker Hall 160. Prerequisite: 82-192 or placement",
+            "department": "Modern Languages",
+            "coreqs": "",
+            "semester": ["F"]
+        },
+        "15112": {
+            "name": "Fundamentals of Programming and Computer Science",
+            "prereqs": "",
+            "units": 12.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "GHC 4307",
+                    "end": "10:20AM",
+                    "begin": "09:00AM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Stehlik"],
+                "sections": [],
+                "lecture": "S"
+            }, {
+                "meetings": [{
+                    "location": "Doha, Qatar",
+                    "room": "CMB 1032",
+                    "end": "11:05AM",
+                    "begin": "09:45AM",
+                    "days": "UMTWR"
+                }],
+                "instructors": ["Bouamor"],
+                "sections": [],
+                "lecture": "W"
+            }],
+            "desc": "A technical introduction to the fundamentals of programming with an emphasis on producing clear, robust, and reasonably efficient code using top-down design, informal analysis, and effective testing and debugging. Starting from first principles, we will cover a large subset of the Python programming language, including its standard libraries and programming paradigms. We will also target numerous deployment scenarios, including standalone programs, shell scripts, and web-based applications. This course assumes no prior programming experience. Even so, it is a fast-paced and rigorous preparation for 15-122. Students seeking a more gentle introduction to computer science should consider first taking 15-110. NOTE: students must achieve a C or better in order to use this course to satisfy the pre-requisite for any subsequent Computer Science course.",
+            "department": "Computer Science",
+            "coreqs": "",
+            "semester": ["F", "S", "M"]
+        },
+        "39499": {
+            "name": "Summer Curricular Practical Training",
+            "prereqs": "",
+            "units": 3.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Instructor TBA"],
+                "sections": [],
+                "lecture": "M"
+            }],
+            "desc": "The college of engineering at Carnegie Mellon considers experiential learning opportunities important educational options for its undergraduate students. One such option is an internship, normally completed during the summer. Students do not need to officially register for an internship unless they want it listed on their official transcripts. CIT students interested in registering their internship for course credit on their transcript may enroll in this course. To do so, students must complete a CIT Internship form (located in Scaife Hall 110) and submit for approval. The CIT Undergraduate Studies Office will add the course to the student's schedule, and the student will be assessed tuition for 3 units. Upon completion of the internship, students must submit a 1-2 page report of their work experience, and a 1-2 page evaluation from the company supervisor to the CIT Undergraduate Office. After the reports has been reviewed and approved, a \"P\" grade will be assigned. This process should be used by international students interested in Curricular Practical Training (CPT) or by any other engineering undergraduate wishing to have their internship experience reflected on their official University transcript. International students should also be authorized by the Office of International Education (OIE). More information regarding CPT is available on OIE's website.",
+            "department": "CIT Interdisciplinary",
+            "coreqs": "",
+            "semester": ["M"]
+        },
+        "88398": {
+            "name": "Independent Study",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Instructor TBA"],
+                "sections": [],
+                "lecture": "M"
+            }, {
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Instructor TBA"],
+                "sections": [],
+                "lecture": "N"
+            }, {
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Loewenstein"],
+                "sections": [],
+                "lecture": "S"
+            }, {
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Instructor TBA"],
+                "sections": [],
+                "lecture": "T"
+            }],
+            "desc": "Students conduct independent academic study under the supervision of a Social & Decision Sciences faculty member. Students who wish to engage in an independent study should seek out a faculty member whose interests are appropriate to the topic. Students must also complete an \"Independent Study/Research for Credit\" form, available from the SDS Coordinator of Student Programs in Porter 208A. Prerequisite: Permission of a faculty sponsor.",
+            "department": "Social & Decision Sciences",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "27556": {
+            "name": "Materials Project II",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Rohrer"],
+                "sections": [],
+                "lecture": "M"
+            }],
+            "desc": "Second semester of Materials Project. This course is designed to give experience in individualized research under the guidance of a faculty member. The topic is selected by mutual agreement, and will give the student a chance to study the literature, design experiments, interpret the results and present the conclusions orally and in writing.",
+            "department": "Materials Science & Engineering",
+            "coreqs": "",
+            "semester": ["S"]
+        },
+        "70371": {
+            "name": "Operations Management",
+            "prereqs": "(21-292 or 21-257) and (36-201 or 36-220 or 36-247 or 36-207 or 70-207)",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "SH 219",
+                    "end": "02:50PM",
+                    "begin": "01:30PM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Yildiz"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course is an introduction to production and operations management that covers both manufacturing and services. It deals with strategic issues (design of flexible supply), planning issues (capacity management), and operational issues (inventory management and information). The linkage between strategy and tactics will be emphasized. The students will learn concepts and tools that will help them to manage from the \"boardroom\" to the \"toolroom.\"",
+            "department": "Business Administration",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "73113": {
+            "name": "Internship III",
+            "prereqs": "",
+            "units": 3.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Goldburg"],
+                "sections": [],
+                "lecture": "M"
+            }, {
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Goldburg"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "By permission of the Undergraduate Economics Program.",
+            "department": "Economics",
+            "coreqs": "",
+            "semester": ["F", "S", "M"]
+        },
+        "3161": {
+            "name": "Molecules to Mind",
+            "prereqs": "",
+            "units": 9.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "WEH 5302",
+                    "end": "10:20AM",
+                    "begin": "09:00AM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Brasier"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This course provides a depth-first approach to understanding neuroscience. We will begin with a clinical focus on neuroanatomy, introducing students to some basic neurological diagnostic techniques. We will then explore the biological basis of neuronal function and link the function of individual neurons to a broader context of neural systems. This will be done in the context of primary literature. Students who complete this course will therefore have an understanding of research methods and be prepared to evaluate scientific literature. The course will have a strong focus on the biological and cellular basis of neuronal excitability and also give students significant, in depth exposure to the function of synapses and their plasticity. Finally, the course will give students an in depth look at sensory and/or motor systems by focusing on one system in particular, rather than providing a broad overview of many different sensory and motor systems.",
+            "department": "Biological Sciences",
+            "coreqs": "",
+            "semester": ["S"]
+        },
+        "82192": {
+            "name": "Elementary Russian II",
+            "prereqs": "82-191",
+            "units": 12.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "TBA",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Kats"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "Offered in spring only, this course is designed for students who have taken first-semester Russian at Carnegie Mellon or its equivalent. Students will develop contextually appropriate interpersonal communication skills in both written and spoken Russian, develop reading and listening skills through various media (video, ML server, Internet), understand and begin to control fundamental grammar, acquire vocabulary, and gain a basic understanding of Russian culture. The elementary level is also designed to help students learn to reflect and draw upon strategies employed by good language learners in their second language study. Daily homework and participation in class are mandatory (four in-class hours per week), as is weekly consultation and conversation practice with a peer language assistant. In case of schedule conflict, please contact Professor Castellano at cc62@andrew.cmu.edu. A student with prior experience in Russian must take the placement exam. Instructions for the placement exam are available in Baker Hall 160. Prerequisite: 82-191 or placement",
+            "department": "Modern Languages",
+            "coreqs": "",
+            "semester": ["S"]
+        },
+        "33499": {
+            "name": "Supervised Reading",
+            "prereqs": "",
+            "units": 0.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "DNM DNM",
+                    "end": null,
+                    "begin": null,
+                    "days": "TBA"
+                }],
+                "instructors": ["Ghosh"],
+                "sections": [],
+                "lecture": "M"
+            }],
+            "desc": "The student explores a certain area of advanced physics under the supervision of a faculty member. The student must contact a faculty member and the Assistant Head for Undergraduate Affairs before registering.",
+            "department": "Physics",
+            "coreqs": "",
+            "semester": ["F", "S"]
+        },
+        "33107": {
+            "name": "Physics II for Engineering Students",
+            "prereqs": "33-106 and 21-120",
+            "units": 12.0,
+            "lectures": [{
+                "meetings": [{
+                    "location": "Pittsburgh, Pennsylvania",
+                    "room": "WEH 5403",
+                    "end": "02:50PM",
+                    "begin": "12:30PM",
+                    "days": "MTWRF"
+                }],
+                "instructors": ["Ghosh"],
+                "sections": [],
+                "lecture": "S"
+            }],
+            "desc": "This is the second half of a two-semester calculus-based introductory physics sequence for engineering students. The course covers waves, including standing and travelling waves, superposition, beats, reflection, interference, electricity, including electrostatics and electric fields, Gauss' law, electric potential, and simple circuits, magnetism, including magnetic forces, magnetic fields, induction and electromagnetic radiation.",
+            "department": "Physics",
+            "coreqs": "21-122",
+            "semester": ["F", "S", "M"]
+        }
+    }
+}
