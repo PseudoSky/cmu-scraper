@@ -6,6 +6,8 @@ This project is structured as a number of scraper scripts which parse
 information from various sources including the Course Catalog, the
 Schedule of Classes, and the site for FCEs.
 
+See also https://github.com/willcrichton/cmu_auth
+
 ## Setup
 
 Install the project requirements (including [Beautiful Soup 4](http://www.crummy.com/software/BeautifulSoup/bs4/doc) and [cmu_auth](http://github.com/willcrichton/cmu_auth)) by running:
